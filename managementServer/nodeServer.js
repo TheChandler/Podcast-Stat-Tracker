@@ -97,7 +97,7 @@ app.get('/playlist', async (req, res) => {
   let response = await getPlayListItems()
   let data = response.data;
   data.timestamp = Date.now();
-  fs.writeFileSync(youtubeResponseCachePath, JSON.stringify(data));
+  fs.writeFileSync(youtubeResponseCachePath, JSON.stringify(data, null, 2));
   res.json(data);
 })
 
