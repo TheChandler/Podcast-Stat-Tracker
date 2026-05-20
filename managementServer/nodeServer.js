@@ -30,7 +30,7 @@ app.delete('/delete', (req, res) => {
 
   const updated = json.filter(episode => episode.id !== body.id);
 
-  fs.writeFileSync(dataPath, JSON.stringify(updated));
+  fs.writeFileSync(dataPath, JSON.stringify(updated, null, 2));
   res.json({ message: 'Episode deleted successfully' });
 
 })
@@ -54,7 +54,7 @@ app.post('/save', (req, res) => {
 
   const updated = json.map(episode => {
     if (episode.id === body.id) {
-      console.log('found match', JSON.stringify(episode));
+      console.log('found match', JSON.stringify(episode,null, 2));
 
       return {
         ...body,
@@ -67,8 +67,7 @@ app.post('/save', (req, res) => {
     body.id = crypto.randomUUID();
     updated.unshift(body);
   }
-
-  fs.writeFileSync(dataPath, JSON.stringify(updated));
+  fs.writeFileSync(dataPath, JSON.stringify(updated, null, 2));
   res.json(body);
 })
 
