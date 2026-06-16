@@ -1,5 +1,48 @@
 [
   {
+    "id": "7396bfa7-7aef-41b5-b0b8-e54b27b4a73b",
+    "number": "314",
+    "title": "Battlefield 6, CloverPit, Dying Light: The Beast",
+    "date": "10/9/2025",
+    "hosts": [
+      "Ben Hanson",
+      "Leo Vader",
+      "Janet Garcia",
+      "Jeff Marchiafava"
+    ],
+    "url": "http://www.youtube.com/watch?v=g3rDZ_G-26M"
+  },
+  {
+    "id": "3cd869d2-9f67-4633-9cb7-b183cdc34dde",
+    "number": "313",
+    "title": "Hades 2 Review, Final Fantasy Tactics, Silent Hill F",
+    "date": "10/1/2025",
+    "hosts": [
+      "Ben Hanson",
+      "Haley MacLean",
+      "Leo Vader",
+      "Charles Harte",
+      "Kelsey Lewin",
+      "Sarah Podzorski",
+      "Jason Schreier"
+    ],
+    "url": "http://www.youtube.com/watch?v=se-CQM_rXwM"
+  },
+  {
+    "id": "5ae46e41-ac45-4c21-b22d-4bb5bc49ee93",
+    "number": "312",
+    "title": "Ghost of Yōtei Review, Baby Steps, Insomniac's Wolverine",
+    "date": "9/25/2025",
+    "hosts": [
+      "Ben Hanson",
+      "Kyle Hilliard",
+      "Jeff Marchiafava",
+      "Haley MacLean",
+      "Leo Vader"
+    ],
+    "url": "http://www.youtube.com/watch?v=mTFheAj44e4"
+  },
+  {
     "id": "c995ee89-ac2c-4b47-9d25-4c993d1cd559",
     "number": "311",
     "title": "Borderlands 4, Nintendo Direct Highlights, Silksong Review",
