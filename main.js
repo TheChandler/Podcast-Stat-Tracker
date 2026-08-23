@@ -297,6 +297,7 @@ function updateSlider() {
 function updateXAxisInputElement() {
     let max = getRangeOfDates();
     document.getElementById('x-axis').setAttribute('value', max.toString());
+    document.getElementById('x-axis').onchange(max.toString());
 }
 function updateHostSelection(id) {
     console.log("udpating host selected");
