@@ -1,27 +1,34 @@
 import type { episode, youtubePlaylistItem } from "./models.ts";
 
 export async function getData() {
-    return fetch('./all').then(res => res.json())
+    let parsed;
+    try {
+        parsed = fetch('./all').then(res => res.json())
+    } catch (e) {
+        console.error("Error fetching data from backend at /all")
+        console.error(e)
+    }
+    return parsed;
 }
 
 export async function getYoutubePlaylistItems() {
     return fetch('./playlist')
-    .then(res => res.json())
-    .then(data => {
-        if (!data || !data.items) {
-            return [];
-        }
-
-        return data.items.map((item:any) =>{
-            return {
-                id: item.id,
-                description: item.snippet.description,
-                publishedAt: new Date(item.snippet.publishedAt).toLocaleDateString(),
-                title: item.snippet.title.replace(' - The MinnMax Show', ''),
-                url: "http://www.youtube.com/watch?v=" + item.snippet.resourceId.videoId,
+        .then(res => res.json())
+        .then(data => {
+            if (!data || !data.items) {
+                return [];
             }
-        }) as youtubePlaylistItem[];
-    })
+
+            return data.items.map((item: any) => {
+                return {
+                    id: item.id,
+                    description: item.snippet.description,
+                    publishedAt: new Date(item.snippet.publishedAt).toLocaleDateString(),
+                    title: item.snippet.title.replace(' - The MinnMax Show', ''),
+                    url: "http://www.youtube.com/watch?v=" + item.snippet.resourceId.videoId,
+                }
+            }) as youtubePlaylistItem[];
+        })
 }
 
 export async function saveData(data: episode) {

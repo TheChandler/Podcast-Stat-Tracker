@@ -1,20 +1,36 @@
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useRef, useState } from "react";
 import type { episode } from "./models.ts";
+import { DescriptionContext, type descriptionContextValues } from "./descriptionContext.tsx";
 
-export function Card({ error, episode, setSelectedEpisode, isBig = false, isHidden = false, onSave, onCancel, onDelete }: { error: string | null, episode: episode, setSelectedEpisode: (id: string) => void, isBig?: boolean, isHidden?: boolean, onSave: (formData: any) => void, onCancel: () => void, onDelete: () => void }) {
+export function Card({ error, episode, setSelectedEpisode, isBig = false, isHidden = false, addedHosts, onSave, onCancel, onDelete }: { error: string | null, episode: episode, setSelectedEpisode: (id: string) => void, isBig?: boolean, isHidden?: boolean, addedHosts: string[], onSave: (formData: any) => void, onCancel: () => void, onDelete: () => void }) {
   isHidden = false;
   return <div className={`card ${isBig ? 'big' : 'small'} ${isHidden ? 'hidden' : ''}`} onClick={() => isBig == false && setSelectedEpisode(episode.id)}>
     <div className="cardInner" >
       {error && <div className="error">{error}</div>}
-      {isBig ? <CardInnardsBig episode={episode} onSave={onSave} onCancel={onCancel} onDelete={onDelete} /> : <CardInnardsSmall episode={episode} />}
+      {isBig ? <CardInnardsBig addedHosts={addedHosts} episode={episode} onSave={onSave} onCancel={onCancel} onDelete={onDelete} /> : <CardInnardsSmall episode={episode} />}
     </div>
   </div>
 }
 
 
 
-function CardInnardsBig({ episode, onSave, onCancel, onDelete }: { episode: episode, onSave: (formData: any) => void, onCancel: () => void, onDelete: () => void }) {
+function CardInnardsBig({ addedHosts, episode, onSave, onCancel, onDelete }: { addedHosts: string[], episode: episode, onSave: (formData: any) => void, onCancel: () => void, onDelete: () => void }) {
   const [formData, setFormData] = useState<any>()
+
+
+  // let prevAddedHostsRef = useRef(addedHosts);
+  // useEffect(()=>{
+
+
+  //   if(prevAddedHostsRef.current != addedHosts){
+  //     let toAdd = addedHosts.filter(h => !prevAddedHostsRef.current.includes(h));
+  //     let toRemove = prevAddedHostsRef.current.filter(h => !addedHosts.includes(h));
+
+  //     prevAddedHostsRef.current = addedHosts;
+  //   }
+  // }, [addedHosts])
+
+
   useEffect(() => {
     let hosts: string[] | string = episode.hosts;
     if (episode.hosts && Array.isArray(episode.hosts)) {
@@ -28,8 +44,17 @@ function CardInnardsBig({ episode, onSave, onCancel, onDelete }: { episode: epis
     setFormData((prev: any) => ({ ...prev, [field]: value }))
   }
 
-  console.log("formData", formData)
+  const { descriptionNames, setDescriptionNames } = useContext<descriptionContextValues>(DescriptionContext)
+
+  const onChangeHosts = (hostsString: string) => {
+    setDescriptionNames(hostsString.split('\n'))
+  }
+
   if (!formData) return null;
+
+  if (descriptionNames) {
+    formData.hosts = descriptionNames.join('\n')
+  }
   return <>
     <div className="editHeader">
       <div className="button save" onClick={() => onSave(formData)}>save</div>
@@ -41,7 +66,7 @@ function CardInnardsBig({ episode, onSave, onCancel, onDelete }: { episode: epis
 
     <div><input placeholder="url" value={formData.url} onChange={(e) => onChange('url', e.target.value)}></input></div>
     <div><input placeholder="Date" value={formData.date} onChange={(e) => onChange('date', e.target.value)}></input></div>
-    <div><textarea placeholder="Hosts" rows={9} value={formData.hosts} onChange={(e) => onChange('hosts', e.target.value)}></textarea></div>
+    <div><textarea placeholder="Hosts" rows={9} value={formData.hosts} onChange={(e) => onChangeHosts(e.target.value)}></textarea></div>
   </>
 }
 function CardInnardsSmall({ episode }: { episode: episode }) {

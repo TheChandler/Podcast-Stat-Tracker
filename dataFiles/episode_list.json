@@ -1,5 +1,648 @@
 [
   {
+    "id": "5f8aa571-367e-498a-bd8a-b9c86a85601f",
+    "number": "359",
+    "title": "GOTY Prediction, Horizon Reboot, Mortal Shell 2 Review",
+    "date": "8/20/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Jacob Geller",
+      "Janet Garcia",
+      "Kyle Hilliard",
+      "Hayes Madsen"
+    ],
+    "url": "http://www.youtube.com/watch?v=kY3ouSfx8hM"
+  },
+  {
+    "id": "36ba7ba6-80fd-465a-8519-134a756197fc",
+    "number": "358",
+    "title": "Marvel Tokon Review, Fields Of Mistria 1.0, New N64 Games",
+    "date": "8/13/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Jacob Geller",
+      "Kyle Hilliard",
+      "Suriel Vazquez",
+      "Nick Stefanacci",
+      "Sarah Podzorski",
+      "Haley MacLean",
+      "Jeff Marchiafava"
+    ],
+    "url": "http://www.youtube.com/watch?v=KMrVUfTvIxU"
+  },
+  {
+    "id": "4bd9f0fa-d2c9-4c0a-ba33-e0ac0de1e8cb",
+    "number": "357",
+    "title": "Big Walk, Fire Emblem, Halo's Future",
+    "date": "8/6/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Haley MacLean",
+      "Kelsey Lewin",
+      "Jeff Marchiafava",
+      "Jacob Geller",
+      "Kyle Hilliard"
+    ],
+    "url": "http://www.youtube.com/watch?v=E1TrKkgjBlI"
+  },
+  {
+    "id": "1e65536b-467a-43ba-bece-14be7a7894b3",
+    "number": "356",
+    "title": "Silent Hill Townfall, Splatoon Raiders, Incident At Galley House",
+    "date": "7/30/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kelsey Lewin",
+      "Janet Garcia",
+      "Jacob Geller",
+      "Jeff Marchiafava",
+      "Haley MacLean",
+      "Kyle Hilliard"
+    ],
+    "url": "http://www.youtube.com/watch?v=lVU12SQvXJI"
+  },
+  {
+    "id": "88f5d3b6-a427-4c52-b49d-4c9795e02aec",
+    "number": "355",
+    "title": "2026's Most Underappreciated Games (So Far)",
+    "date": "7/23/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Sarah Podzorski",
+      "Leo Vader",
+      "Janet Garcia",
+      "Lucy James"
+    ],
+    "url": "http://www.youtube.com/watch?v=V60zqo74V98"
+  },
+  {
+    "id": "85aa73bc-1a54-449d-a27c-c2999f774b5a",
+    "number": "354",
+    "title": "Ocarina Of Time, Denshattack Review, 53 Always Fun Things",
+    "date": "7/16/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kyle Hilliard",
+      "Jacob Geller",
+      "Kyle Bosman"
+    ],
+    "url": "http://www.youtube.com/watch?v=DvVdpMnQhSg"
+  },
+  {
+    "id": "019ea14c-0e7f-476a-a4d9-0f642bd01791",
+    "number": "353",
+    "title": "PS6 Kills Discs, Xbox Fallout, Rhythm Heaven Groove",
+    "date": "7/9/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kelsey Lewin",
+      "Haley MacLean",
+      "Jacob Geller",
+      "Jeff Marchiafava"
+    ],
+    "url": "http://www.youtube.com/watch?v=Lj0XyTzStgg"
+  },
+  {
+    "id": "8b3031ed-5c44-42c9-9a3a-56ece2f5ced7",
+    "number": "352",
+    "title": "2026's Release Calendar Six-Shooter Duel",
+    "date": "6/28/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Janet Garcia",
+      "Jacob Geller",
+      "Haley MacLean",
+      "Leo Vader"
+    ],
+    "url": "http://www.youtube.com/watch?v=CfLgV84kz_Q"
+  },
+  {
+    "id": "1f746fb4-44f2-45b6-a32f-acf044fd8bf7",
+    "number": "351",
+    "title": "GTA VI Details, Star Fox Review, Steam Machine",
+    "date": "6/25/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kyle Hilliard",
+      "Jeff Marchiafava",
+      "Nick Stefannaci"
+    ],
+    "url": "http://www.youtube.com/watch?v=9fDMpOnmFtU"
+  },
+  {
+    "id": "11731c88-b669-4d32-b9cc-56e59f3e0d42",
+    "number": "350",
+    "title": "Xbox Studio Doom, Best Steam Demos, Adventures Of Elliot",
+    "date": "6/18/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Jacob Geller",
+      "Kyle Hilliard",
+      "Jason Schreier",
+      "Sarah Podzorski",
+      "Haley MacLean"
+    ],
+    "url": "http://www.youtube.com/watch?v=lOL3vaHTU9U"
+  },
+  {
+    "id": "d6ba3313-b259-42f9-be1d-ffec5956e371",
+    "number": "349",
+    "title": "Final Fantasy VII Revelation, Resident Evil Veronica, SGF's Game Of The Show",
+    "date": "6/11/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kelsey Lewin",
+      "Kyle Hilliard",
+      "Janet Garcia",
+      "EllieJoyPanic"
+    ],
+    "url": "http://www.youtube.com/watch?v=1nvMu8wDOHk"
+  },
+  {
+    "id": "0daec99b-d880-4a1f-94b2-4a4234fb31a8",
+    "number": "348",
+    "title": "State Of Play Reveals, God Of War: Laufey, Luna Abyss Review",
+    "date": "6/4/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Jacob Geller",
+      "Janet Garcia",
+      "Leo Vader",
+      "Kyle Hilliard"
+    ],
+    "url": "http://www.youtube.com/watch?v=M68OMxYU1XQ"
+  },
+  {
+    "id": "1d5fedee-195d-4f3b-8f27-2e5bc93f42ae",
+    "number": "347",
+    "title": "007 First Light, Mina The Hollower Review, Gaming's Skyrocketing Prices",
+    "date": "5/28/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Leo Vader",
+      "Janet Garcia",
+      "Jeff Marchiafava",
+      "Suriel Vazquez",
+      "Kyle Hilliard"
+    ],
+    "url": "http://www.youtube.com/watch?v=8VcAaoHjqy8"
+  },
+  {
+    "id": "52ae1777-8de2-423d-88aa-2360244b4034",
+    "number": "346",
+    "title": "SGF Predictions, Subnautica 2, Yoshi And The Mysterious Book",
+    "date": "5/21/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kelsey Lewin",
+      "Jeff Marchiafava",
+      "Kyle Hilliard"
+    ],
+    "url": "http://www.youtube.com/watch?v=CP0hzVUTs54"
+  },
+  {
+    "id": "1afb80cd-fd34-414d-95c3-10056a66a9e9",
+    "number": "345",
+    "title": "Mina The Hollower, Forza Horizon 6 Review, Stranger Than Heaven",
+    "date": "5/14/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Sarah Podzorski",
+      "Janet Garcia",
+      "Kyle Hilliard",
+      "Jeff Marchiafava"
+    ],
+    "url": "http://www.youtube.com/watch?v=IzaMo3AZv6E"
+  },
+  {
+    "id": "f38a9cb1-7ab7-4041-b165-f371696c7c59",
+    "number": "344",
+    "title": "Star Fox Returns, Mixtape Review, Xbox's Gigantic Asterisk",
+    "date": "5/7/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Nick Stefanacci",
+      "Janet Garcia",
+      "Jacob Geller",
+      "Kyle Hilliard"
+    ],
+    "url": "http://www.youtube.com/watch?v=7nxS-s-jlR8"
+  },
+  {
+    "id": "cdb6610e-63ba-4135-accb-268ba33228e3",
+    "number": "343",
+    "title": "007 First Light, Resident Evil Movie, Final Fantasy XIV Evercold",
+    "date": "4/30/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Leo Vader",
+      "Sarah Podzorski",
+      "Janet Garcia"
+    ],
+    "url": "http://www.youtube.com/watch?v=fsDaDxIIVYU"
+  },
+  {
+    "id": "b3fafbfd-186d-4329-bd5b-5fbb70854fbc",
+    "number": "342",
+    "title": "Saros Review, Tomodachi Life, Vampire Crawlers",
+    "date": "4/24/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Jacob Geller",
+      "Kyle Hilliard",
+      "Jeff Marchiafava",
+      "Haley MacLean",
+      "Deven McClure"
+    ],
+    "url": "http://www.youtube.com/watch?v=FxL7WeTn92g"
+  },
+  {
+    "id": "3b3ce4fb-fad7-4dfb-8a7c-288422261877",
+    "number": "341",
+    "title": "Pragmata Review, Super Meat Boy 3D, Twilight Princess Revisited",
+    "date": "4/16/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Jacob Geller",
+      "Janet Garcia",
+      "Kyle Hilliard",
+      "Jeff Marchiafava",
+      "Sarah Podzorski",
+      "Haley MacLean"
+    ],
+    "url": "http://www.youtube.com/watch?v=BsCyu-fjokk"
+  },
+  {
+    "id": "7b239f52-46e6-475c-be27-400174baa105",
+    "number": "340",
+    "title": "Star Fox's Future, Samson, Ocarina Of Time Remake",
+    "date": "4/9/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kelsey Lewin",
+      "Leo Vader",
+      "Kyle Hilliard"
+    ],
+    "url": "http://www.youtube.com/watch?v=1hqvyRjUUpY"
+  },
+  {
+    "id": "eca00c78-9218-44ac-ad39-31c401ea3941",
+    "number": "339",
+    "title": "25 Games Everybody Should Play (Alanah Pearce Returns)",
+    "date": "4/2/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kelsey Lewin",
+      "Jacob Geller",
+      "Kyle Hilliard",
+      "Alanah Pearce"
+    ],
+    "url": "http://www.youtube.com/watch?v=EayqMZeiQhQ"
+  },
+  {
+    "id": "40f2623e-5f90-4fcf-9ff9-d8d3232550e1",
+    "number": "338",
+    "title": "Crimson Desert, Screamer, Metal Gear's Lost Game",
+    "date": "3/26/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Leo Vader",
+      "Jeff Marchiafava",
+      "Kyle Hilliard",
+      "Haley MacLean"
+    ],
+    "url": "http://www.youtube.com/watch?v=LrBqTAm6BCU"
+  },
+  {
+    "id": "cc72ebf3-3b4c-4230-aba7-495fc2496e55",
+    "number": "337",
+    "title": "Slay The Spire II Review, DLSS 5, Portal Writer Erik Wolpaw",
+    "date": "3/19/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Leo Vader",
+      "Jacob Geller",
+      "Janet Garcia",
+      "Erik Wolpaw"
+    ],
+    "url": "http://www.youtube.com/watch?v=Zi0kGNknkPE"
+  },
+  {
+    "id": "e1114da6-7a28-4884-b4f4-ddbf475cf2d8",
+    "number": "336",
+    "title": "Xbox's Next-Gen Reveal, Pokémon Pokopia, Esoteric Ebb",
+    "date": "3/12/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Sarah Podzorski",
+      "Kelsey Lewin",
+      "Jeff Marchiafava",
+      "Haley MacLean"
+    ],
+    "url": "http://www.youtube.com/watch?v=ltYKj9YaeMI"
+  },
+  {
+    "id": "263ad734-b50e-4397-ae30-c6d8560c29ef",
+    "number": "335",
+    "title": "Marathon, Next-Gen Pokémon, Spider-Man: Miles Morales Still Rules",
+    "date": "3/5/2026",
+    "hosts": [
+      "Haley MacLean",
+      "Leo Vader",
+      "Jacob Geller",
+      "Kyle Hilliard"
+    ],
+    "url": "http://www.youtube.com/watch?v=9iH6YFQj_Uc"
+  },
+  {
+    "id": "f612e10a-e897-4bab-9e07-0d236e9c8e6c",
+    "number": "334",
+    "title": "Resident Evil Requiem, Best Indie Demos, Paranormasight",
+    "date": "2/26/2026",
+    "hosts": [
+      "Haley MacLean",
+      "Janet Garcia",
+      "Kelsey Lewin",
+      "Kyle Hilliard",
+      "Jeff Marchiafava"
+    ],
+    "url": "http://www.youtube.com/watch?v=B97x3ubEac8"
+  },
+  {
+    "id": "ff6c3c71-a1b0-414f-8316-9bc23743ac43",
+    "number": "333",
+    "title": "State Of Play Highlights, God Of War, Castlevania Reveal",
+    "date": "2/19/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kyle Hilliard",
+      "Jeff Marchiafava",
+      "Janet Garcia"
+    ],
+    "url": "http://www.youtube.com/watch?v=7gJm6NerlBI"
+  },
+  {
+    "id": "7d8dc4e4-2a81-44e5-89e1-3d1fb9e73f9c",
+    "number": "332",
+    "title": "Horizon Hunters Gathering, Reanimal, Romeo Is A Dead Man",
+    "date": "2/10/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Jacob Geller",
+      "Kyle Hilliard",
+      "Jeff Marchiafava",
+      "Janet Garcia"
+    ],
+    "url": "http://www.youtube.com/watch?v=jeIENl4s-eI"
+  },
+  {
+    "id": "d0f75e0a-c84e-4957-8ebe-48d6446c7ac5",
+    "number": "331",
+    "title": "Nintendo's Weirdest Games Of All Time (With Jeremy Parish)",
+    "date": "2/5/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kelsey Lewin",
+      "Kyle Hilliard",
+      "Jeremy Parish"
+    ],
+    "url": "http://www.youtube.com/watch?v=RxlxyPWGsOo"
+  },
+  {
+    "id": "2a86063d-541a-4dad-8113-e89335b61932",
+    "number": "330",
+    "title": "Gaming's Biggest Reevaluations, Fable, Cairn Review",
+    "date": "1/29/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Haley MacLean",
+      "Jeff Marchiafava",
+      "Jacob Geller"
+    ],
+    "url": "http://www.youtube.com/watch?v=dDR0BaW7LRk"
+  },
+  {
+    "id": "7eadf311-0146-49bc-b29e-007645aa3666",
+    "number": "329",
+    "title": "Our Most Anticipated Games Of 2026",
+    "date": "1/22/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kelsey Lewin",
+      "Kyle Hilliard",
+      "Jacob Geller"
+    ],
+    "url": "http://www.youtube.com/watch?v=zOuZDL5Zulc"
+  },
+  {
+    "id": "b1da34c5-f95a-4d80-b04f-df761322e39c",
+    "number": "328",
+    "title": "Our Predictions For 2026 (And Maddy Myers!)",
+    "date": "1/15/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Janet Garcia",
+      "Jeff Marchiafava",
+      "Kyle Hilliard",
+      "Maddy Myers"
+    ],
+    "url": "http://www.youtube.com/watch?v=0WPCuhxHjX0"
+  },
+  {
+    "id": "d5b34617-9214-48b8-b2e1-94e2f7c13d56",
+    "number": "327",
+    "title": "Top 20 Games, 4 Overlooked Gems, Baby Steps Breaks Containment",
+    "date": "1/8/2026",
+    "hosts": [
+      "Ben Hanson",
+      "Kelsey Lewin",
+      "Kyle Hilliard",
+      "Jeff Marchiafava",
+      "Jacob Geller"
+    ],
+    "url": "http://www.youtube.com/watch?v=Bs_l0AXC0lk"
+  },
+  {
+    "id": "c5fbabbc-8f9a-484c-b712-fb4b2c4d1408",
+    "number": "326",
+    "title": "Game Of The Year 2025 (The Final Debate)",
+    "date": "12/18/2025",
+    "hosts": [
+      "Ben Hanson",
+      "Kyle Hilliard",
+      "Kelsey Lewin",
+      "Jeff Marchiafava",
+      "Janet Garcia",
+      "Jacob Geller",
+      "Haley MacLean",
+      "Leo Vader",
+      "Sarah Podzorski"
+    ],
+    "url": "http://www.youtube.com/watch?v=lIQd-zokVnQ"
+  },
+  {
+    "id": "fed4252d-9970-4a2c-ba63-3eaf89d98124",
+    "number": "325",
+    "title": "Game Of The Year 2025 (Building The List)",
+    "date": "12/18/2025",
+    "hosts": [
+      "Ben Hanson",
+      "Haley MacLean",
+      "Jacob Geller",
+      "Janet Garcia",
+      "Sarah Podzorski",
+      "Leo Vader",
+      "Kyle Hilliard",
+      "Kelsey Lewin",
+      "Jeff Marchiafava"
+    ],
+    "url": "http://www.youtube.com/watch?v=5LSlLzgQGFs"
+  },
+  {
+    "id": "f2b9235c-f161-4e00-9661-81459a92f29f",
+    "number": "324",
+    "title": "The MinnMax Awards 2025",
+    "date": "12/16/2025",
+    "hosts": [
+      "Ben Hanson",
+      "Haley MacLean",
+      "Jacob Geller",
+      "Janet Garcia",
+      "Jeff Marchiafava",
+      "Kelsey Lewin",
+      "Kyle Hilliard",
+      "Leo Vader",
+      "Sarah Podzorski"
+    ],
+    "url": "http://www.youtube.com/watch?v=jZqJiLwhX4c"
+  },
+  {
+    "id": "b9b5ecce-2ee5-426e-9ee2-c34140d1e0e4",
+    "number": "323",
+    "title": "Naughty Or Nice Gaming Habits, Skate Story, Pipistrello",
+    "date": "12/11/2025",
+    "hosts": [
+      "Haley MacLean",
+      "Janet Garcia",
+      "Jacob Geller",
+      "Leo Vader",
+      "Santa Claus"
+    ],
+    "url": "http://www.youtube.com/watch?v=yaVYBvZQX54"
+  },
+  {
+    "id": "2220b550-7730-4898-bbf5-32516fd44060",
+    "number": "322",
+    "title": "Metroid Prime 4 Review, 2025's Best Game Music",
+    "date": "12/4/2025",
+    "hosts": [
+      "Kyle Bosman",
+      "Kyle Hilliard",
+      "Jacob Geller",
+      "Charles Harte",
+      "Leo Vader"
+    ],
+    "url": "http://www.youtube.com/watch?v=CAP2LtrIt5s"
+  },
+  {
+    "id": "ce06c2e8-c460-470f-990b-a82083f4c4f3",
+    "number": "321",
+    "title": "Kirby Air Riders, Hyrule Warriors: Age Of Imprisonment",
+    "date": "11/27/2025",
+    "hosts": [
+      "Kyle Bosman",
+      "Kyle Hilliard",
+      "Sarah Podzorski",
+      "Leo Vader"
+    ],
+    "url": "http://www.youtube.com/watch?v=yu9VF2UxZbY"
+  },
+  {
+    "id": "1f5e364b-a047-4756-9291-8af583aee327",
+    "number": "320",
+    "title": "Dispatch, Goodnight Universe, Deadpool VR",
+    "date": "11/20/2025",
+    "hosts": [
+      "Haley MacLean",
+      "Janet Garcia",
+      "Jacob Geller",
+      "Kyle Hilliard",
+      "Leo Vader"
+    ],
+    "url": "http://www.youtube.com/watch?v=RKecGqOC8HI"
+  },
+  {
+    "id": "a7313f6d-bac9-4421-91e4-d53ce007c081",
+    "number": "319",
+    "title": "Steam Machine, Lumines Arise, Seance Of Blake Manor",
+    "date": "11/13/2025",
+    "hosts": [
+      "Leo Vader",
+      "Kyle Bosman",
+      "Ana Diaz",
+      "Mark MacDonald"
+    ],
+    "url": "http://www.youtube.com/watch?v=93tsI-9C8Vw"
+  },
+  {
+    "id": "7b4aab16-deec-49dc-acbe-f84304c9e5c8",
+    "number": "318",
+    "title": "Arc Raiders, Mortal Kombat History, Ben's Leave",
+    "date": "11/5/2025",
+    "hosts": [
+      "Ben Hanson",
+      "Leo Vader",
+      "Kelsey Lewin",
+      "Jeff Marchiafava",
+      "Jacob Geller",
+      "Haley MacLean"
+    ],
+    "url": "http://www.youtube.com/watch?v=khrl2-nScAQ"
+  },
+  {
+    "id": "a3805f6a-1d5c-480f-9d2b-58fed03040b3",
+    "number": "317",
+    "title": "Game Of The Year Debate: The Prologue",
+    "date": "10/30/2025",
+    "hosts": [
+      "Ben Hanson",
+      "Jacob Geller",
+      "Sarah Podzorski",
+      "Janet Garcia",
+      "Jeff Marchiafava",
+      "Leo Vader"
+    ],
+    "url": "http://www.youtube.com/watch?v=VuU6nP7iWGo"
+  },
+  {
+    "id": "e66345a9-1abb-400f-a125-ed2bdb3589c8",
+    "number": "316",
+    "title": "Pokémon Legends: Z-A, Dispatch, Double Fine's Keeper",
+    "date": "10/23/2025",
+    "hosts": [
+      "Ben Hanson",
+      "Kelsey Lewin",
+      "Haley MacLean",
+      "Janet Garcia",
+      "Kyle Hilliard",
+      "Charles Harte"
+    ],
+    "url": "http://www.youtube.com/watch?v=YsP-0wt9DEQ"
+  },
+  {
+    "id": "81906f8e-aaea-4db0-b0b9-ee29b3478ad5",
+    "number": "315",
+    "title": "Xbox's Handheld, Ball X Pit Review, Absolum Rules",
+    "date": "10/16/2025",
+    "hosts": [
+      "Ben Hanson",
+      "Kyle Hilliard",
+      "Jacob Geller",
+      "Chris Plante"
+    ],
+    "url": "http://www.youtube.com/watch?v=GMnX12fuxyI"
+  },
+  {
     "id": "7396bfa7-7aef-41b5-b0b8-e54b27b4a73b",
     "number": "314",
     "title": "Battlefield 6, CloverPit, Dying Light: The Beast",

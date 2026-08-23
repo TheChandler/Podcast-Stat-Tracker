@@ -4,6 +4,7 @@ import { deleteData, getData, getYoutubePlaylistItems, publish, saveData } from 
 import type { episode, youtubePlaylistItem } from './models.ts'
 import { Card } from './Card.tsx'
 import { RawEpisodes } from './RawEpisodeCard.tsx'
+import { DescriptionProvider } from './descriptionContext.tsx'
 
 function newEpisode(): episode {
   return {
@@ -23,6 +24,8 @@ function App() {
   const [rawEpisodes, setRawEpisodes] = useState<youtubePlaylistItem[]>([])
   const [rawEpisodeMode, setRawEpisodeMode] = useState<boolean>(false);
   const [selectedRaw, setSelectedRaw] = useState<string | null>(null);
+
+  const [addedHosts, setAddedHosts] = useState<string[]>([]);
 
 
   const populateRawEpisodes = () => {
@@ -96,7 +99,7 @@ function App() {
   }
 
   const addEpisode = (raw: youtubePlaylistItem | null = null) => {
-    if (selectedEpisode){
+    if (selectedEpisode) {
       return;
     }
 
@@ -117,7 +120,16 @@ function App() {
     setSelectedEpisode(episode.id);
   };
 
-
+  const addHost = (host: string) => {
+    if (!selectedEpisode) {
+      return;
+    }
+    if (addedHosts.includes(host)) {
+      setAddedHosts(prev => prev.filter(h => h != host));
+    } else {
+      setAddedHosts(prev => [...prev, host]);
+    }
+  }
   return <div>
     <div className='header'>
       <div className="button" onClick={() => addEpisode()}>Add Episode</div>
@@ -129,23 +141,31 @@ function App() {
 
 
     <div className='flex'>
+      <DescriptionProvider>
 
-      <div className='cardHolder'>
-        {episdoes.map(e => <Card
-          error={error}
-          episode={e}
-          setSelectedEpisode={setSelectedEpisode}
-          isBig={selectedEpisode == e.id}
-          isHidden={!!(selectedEpisode && selectedEpisode != e.id)}
-          onSave={onSave}
-          onCancel={onCancel}
-          onDelete={onDelete}
-        />)}
-      </div>
+        <div className='cardHolder'>
+          {episdoes.map(e => <Card
+            error={error}
+            episode={e}
+            setSelectedEpisode={setSelectedEpisode}
+            isBig={selectedEpisode == e.id}
+            isHidden={!!(selectedEpisode && selectedEpisode != e.id)}
+            onSave={onSave}
+            onCancel={onCancel}
+            onDelete={onDelete}
+            addedHosts={addedHosts}
+          />)}
+        </div>
 
-      {rawEpisodeMode &&
-        <RawEpisodes rawEpisodes={rawEpisodes} addEpisode={addEpisode} selectedRaw={selectedRaw} />
-      }
+        {rawEpisodeMode &&
+          <RawEpisodes
+            rawEpisodes={rawEpisodes}
+            addEpisode={addEpisode}
+            selectedRaw={selectedRaw}
+          // addHost={addHost}
+          />
+        }
+      </DescriptionProvider>
     </div>
   </div>
 }
