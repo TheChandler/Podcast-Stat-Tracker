@@ -1,11 +1,67 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "zd97IbXb4IsMRxoV7gi7BE33B0k",
-  "nextPageToken": "EAAaHlBUOkNESWlFREV6UmpjNU5FTkJNakF3TkVSRFFVRQ",
+  "etag": "7LEuAUdGBF9qPaxqg0K0HHrDmCE",
+  "nextPageToken": "EAAaHlBUOkNESWlFRFV5Umpnd1FVUXpNVGhEUWpKRFFUZw",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "nRQgcjeH9EnXxKySuemzPzZeIe0",
+      "etag": "cilofMBchqKis3DPzzJtKmnbnCg",
+      "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BNzVDNTJBQkJBOTRGRUMw",
+      "snippet": {
+        "publishedAt": "2026-08-28T13:13:39Z",
+        "channelId": "UCiUhKqsBH-Is2VeC2sykEfg",
+        "title": "GTA VI Gameplay, Duskbloods, Gamescom Highlights - The MinnMax Show",
+        "description": "The Lumines Arise code giveaway window has closed, thanks so much for directly supporting independent games media - https://www.patreon.com/minnmax\n\nMinnMax's Ben Hanson, Sarah Podzorski, Leo Vader, Jacob Geller, and Jeff Marchiafava gather together in the MinnMax Studio in Minneapolis to react to the big gameplay reveal for GTA 6 from Rockstar Games. Then Jacob unpacks his feelings on From Software's The Duskbloods on Nintendo Switch 2 and we debate Horizon Hunters Gathering more before we jump into the XCOM-like Star Wars: Zero Company. After that, we run through some of the highlights from Geoff Keighely's Opening Night Live such as Final Fantasy VII Revelation and The Witcher 3's new expansion. So many games to talk about! Then we answer questions submitted on Patreon by the community and award the iam8bit question of the week! You can win a prize and help make the show better by supporting us on Patreon and submitting a question! https://www.patreon.com/minnmax\n\nDon't miss Sarah and Haley's MinnMax Spotlight on 17-Bit's Awaysis in Japan - https://youtu.be/4c4d85dFsoUhttps://youtu.be/4c4d85dFsoU\n\nHelp support MinnMax's supporters!\nhttps://www.iam8bit.com - 10% off with Promo Code: IAM8BEACH\nhttps://hungryroot.com/minnmax- 40% off with Promo Code: MINNMAX\n\nTo jump to a particular discussion, check out the timestamps below... \n00:00:00 - Intro\n00:03:16 - Deepest Dive poll winner/Lumines Arise code giveaway\n00:07:52 - GTA VI\n00:28:40 - Hungry Root Ad\n00:30:12 - The Duskbloods\n00:45:30 - Deadlock\n00:50:05 - Horizon Hunters Gathering\n00:58:38 - Project Zomboid\n01:01:11 - Star Wars: Zero Company\n01:23:58 - Blood Dungeon\n01:30:58 - Gamescom Highlights\n01:32:53 - Acornia: Mirror Worlds\n01:35:45 - Tom Clancy's Rainbow 6 Tactics\n01:40:44 - The Witcher 3: Songs of the Past\n01:43:29 - Stage Tour\n01:49:53 - Ontos\n01:51:16 - Pony Island 2\n01:52:17 - Final Fantasy VII Revelation\n01:57:34 - Gamescom Opening Night Live and AI\n02:06:13 - Teardown\n02:08:30 - PengPong\n02:12:11 - Thanking iam8bit - https://www.iam8bit.com/\n02:14:13 - Community questions\n02:42:42 - Get A Load Of This\nJacob's GALOT - https://www.howtoinventeverything.com/\nLeo's GALOT - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTYqG96r6azBBKJiCkBOHapJNSogyeKGySnbn_6epJfqMbyy-B6fHA65g&amp;s=10\nBen's GALOT - https://www.youtube.com/watch?v=TimC_NyEmsk\nJeffM's GALOT - https://bsky.app/profile/haleyfax.bsky.social/post/3mtwa6yxyrk2u\nCommunity GALOT - https://www.ign.com/articles/pokemon-veteran-james-turner-rejoins-franchise-following-work-on-the-plucky-squire\n\nDisclosure - Games discussed on MinnMax content are most often provided for free by the publisher or developer.\n\nSupport us on Patreon - https://www.patreon.com/minnmax\nSupport MinnMax directly on YouTube - https://youtube.com/minnmax/join\nFollow us on Twitch - https://www.twitch.tv/minnmaxshow\nSubscribe to our YouTube channel - https://www.youtube.com/minnmax\nSubscribe to our solo stream channel - https://www.youtube.com/@MinnMaxStreamArchives\nBuy MinnMax merch here - https://minnmax.com/merch\nFollow us on Bluesky - https://bsky.app/profile/minnmax.com\nGo behind the scenes on Instagram - https://www.instagram.com/minnmaxshow\n\n#minnmax\n#minnmaxshow\n#gameinformer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PzSq3CfRT0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PzSq3CfRT0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PzSq3CfRT0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PzSq3CfRT0w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PzSq3CfRT0w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/PzSq3CfRT0w/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "MinnMax",
+        "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PzSq3CfRT0w"
+        },
+        "videoOwnerChannelTitle": "MinnMax",
+        "videoOwnerChannelId": "UCiUhKqsBH-Is2VeC2sykEfg"
+      },
+      "contentDetails": {
+        "videoId": "PzSq3CfRT0w",
+        "videoPublishedAt": "2026-08-28T14:15:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QgGY54196ww8DOy0ktCeF3Vo0n4",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC44OUQ3NTI3QjhGMTRCODVD",
       "snippet": {
         "publishedAt": "2026-08-20T13:46:34Z",
@@ -37,11 +93,16 @@
             "url": "https://i.ytimg.com/vi/kY3ouSfx8hM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/kY3ouSfx8hM/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kY3ouSfx8hM"
@@ -56,7 +117,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "iAQkUOa7zQabHxEpgwpTWlzZfDY",
+      "etag": "jb05FbDhfvVPE6QR9NMmN8ou19E",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yQkQ3QUY2RTlGRjM3MTJE",
       "snippet": {
         "publishedAt": "2026-08-13T16:06:48Z",
@@ -88,11 +149,16 @@
             "url": "https://i.ytimg.com/vi/KMrVUfTvIxU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/KMrVUfTvIxU/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "KMrVUfTvIxU"
@@ -107,7 +173,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XGYKym2IUJzG85HkCHLWx5qTkNw",
+      "etag": "eLN_1R6VoyWupwhfOryGwG-6fIs",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4xNjFBQzY0OEY1QzAxNjJE",
       "snippet": {
         "publishedAt": "2026-08-06T12:53:30Z",
@@ -139,11 +205,16 @@
             "url": "https://i.ytimg.com/vi/E1TrKkgjBlI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/E1TrKkgjBlI/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "E1TrKkgjBlI"
@@ -158,7 +229,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7slTPHYRDu5NMuGsTyetfBoEces",
+      "etag": "HeWBfYTg4cHIKSKIcVo-toGqy5Y",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5DRDZEMDAwRUY1NTJCODA1",
       "snippet": {
         "publishedAt": "2026-07-30T14:33:46Z",
@@ -190,11 +261,16 @@
             "url": "https://i.ytimg.com/vi/lVU12SQvXJI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/lVU12SQvXJI/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lVU12SQvXJI"
@@ -209,7 +285,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3T9pXMCxpxJtfB-KNnkQD8zLu_Y",
+      "etag": "bLyaZjJE_bpkrMyKWFI5Q3MYHVA",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4wMUIyRTdBMEU5MDlCNTk2",
       "snippet": {
         "publishedAt": "2026-07-23T02:01:53Z",
@@ -241,11 +317,16 @@
             "url": "https://i.ytimg.com/vi/V60zqo74V98/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/V60zqo74V98/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "V60zqo74V98"
@@ -260,7 +341,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "J284doEaARCbgX12ilEmqoI3IYg",
+      "etag": "gFJj2-vleHW3Z4zleJ_br6YJWLQ",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4wNzVFQUYyOUU3MUFCN0E4",
       "snippet": {
         "publishedAt": "2026-07-16T09:24:33Z",
@@ -292,11 +373,16 @@
             "url": "https://i.ytimg.com/vi/DvVdpMnQhSg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/DvVdpMnQhSg/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "DvVdpMnQhSg"
@@ -311,7 +397,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "G-DuHTguLDq0t-8cnlflqYKn0Vc",
+      "etag": "YFqwaVvu0y0kSIyRjgOGfZEqpzQ",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5FMjIzQTZBODBCREYwN0Iz",
       "snippet": {
         "publishedAt": "2026-07-09T14:38:19Z",
@@ -343,11 +429,16 @@
             "url": "https://i.ytimg.com/vi/Lj0XyTzStgg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/Lj0XyTzStgg/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Lj0XyTzStgg"
@@ -362,7 +453,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cPB8xD-nIYEny1A0hYCqQ6nQNzk",
+      "etag": "wmend7FDDXZkjvoRhA21yP2BGlA",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4zMzI1MzRGNURGODI4MkVC",
       "snippet": {
         "publishedAt": "2026-06-28T13:03:12Z",
@@ -394,11 +485,16 @@
             "url": "https://i.ytimg.com/vi/CfLgV84kz_Q/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/CfLgV84kz_Q/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 7,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CfLgV84kz_Q"
@@ -413,7 +509,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "QcKpBxUvUJTgMVRGZH1oflTAKps",
+      "etag": "72sIjJjeTMFGlY0KOPP7Mo5zEN4",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC40MEE4MzM5MDQwOUEyQUZB",
       "snippet": {
         "publishedAt": "2026-06-25T18:35:25Z",
@@ -445,11 +541,16 @@
             "url": "https://i.ytimg.com/vi/9fDMpOnmFtU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/9fDMpOnmFtU/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 8,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9fDMpOnmFtU"
@@ -464,7 +565,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ouN477hhc0hfk5jMOmYtD9eKMVc",
+      "etag": "AEjv73I_-8TKllnG8XXbLsFUP_A",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC44NEJEQTI3OTgwREEwMkMw",
       "snippet": {
         "publishedAt": "2026-06-18T12:10:59Z",
@@ -496,11 +597,16 @@
             "url": "https://i.ytimg.com/vi/lOL3vaHTU9U/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/lOL3vaHTU9U/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 9,
+        "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lOL3vaHTU9U"
@@ -515,7 +621,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4AV_t_1iBuSxGn2ldBDzBS5KrsM",
+      "etag": "DIFcRvJ9cqr0mBGvqiQgHceMOEA",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5DQ0NEMjhGODBDMzAyRTUz",
       "snippet": {
         "publishedAt": "2026-06-11T03:18:04Z",
@@ -547,11 +653,16 @@
             "url": "https://i.ytimg.com/vi/1nvMu8wDOHk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/1nvMu8wDOHk/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 10,
+        "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "1nvMu8wDOHk"
@@ -566,7 +677,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wZ_JVjYtWq9J2YQET5Paf6dc8Bw",
+      "etag": "s3BFqzFxqWiIF42PphlrodGkmm8",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC43ODUxQUQzOEI2RDEwM0FG",
       "snippet": {
         "publishedAt": "2026-06-04T02:13:00Z",
@@ -598,11 +709,16 @@
             "url": "https://i.ytimg.com/vi/M68OMxYU1XQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/M68OMxYU1XQ/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 11,
+        "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "M68OMxYU1XQ"
@@ -617,7 +733,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "X3kICuiZ8mGtmOLpf0vhsxfW8Vo",
+      "etag": "q_UN7SjJZ8cWPx16ankSY9YdCsw",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC41ODEzODFCRDIzQURGRjU5",
       "snippet": {
         "publishedAt": "2026-05-28T13:47:39Z",
@@ -649,11 +765,16 @@
             "url": "https://i.ytimg.com/vi/8VcAaoHjqy8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/8VcAaoHjqy8/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 12,
+        "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8VcAaoHjqy8"
@@ -668,7 +789,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NVb2mWW5F_MLXrXvCsgQ40aPHLw",
+      "etag": "_COZREJXDmk2WZiADP1LlqAxhDM",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5FMTRBMDgyN0ZFQjY4Mzkw",
       "snippet": {
         "publishedAt": "2026-05-21T13:05:38Z",
@@ -700,11 +821,16 @@
             "url": "https://i.ytimg.com/vi/CP0hzVUTs54/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/CP0hzVUTs54/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 13,
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CP0hzVUTs54"
@@ -719,7 +845,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8VNpRTn42s661HbAM_uWS_sG7RM",
+      "etag": "inPN-gXYwv0FXVQIa9rBTZ9ICFs",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5DOTNDNjAwMzFFNUY5NzYy",
       "snippet": {
         "publishedAt": "2026-05-14T13:56:55Z",
@@ -751,11 +877,16 @@
             "url": "https://i.ytimg.com/vi/IzaMo3AZv6E/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/IzaMo3AZv6E/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 14,
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "IzaMo3AZv6E"
@@ -770,7 +901,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2O894XEc1d_L5zyRwjsBPYxcfyY",
+      "etag": "s0h-CJaUtlWK0MebZaW8iFT3B0I",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yNjFFMzVEMkVDRTRDOEMz",
       "snippet": {
         "publishedAt": "2026-05-07T12:21:09Z",
@@ -802,11 +933,16 @@
             "url": "https://i.ytimg.com/vi/7nxS-s-jlR8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/7nxS-s-jlR8/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 15,
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "7nxS-s-jlR8"
@@ -821,7 +957,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "D461jE6v7py-rwh0yjk3Pu4jqwY",
+      "etag": "SzcSVcEb1_23B5JF9f6yCwji9gc",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4wOEE0NEE4QTk1RTc0MUJB",
       "snippet": {
         "publishedAt": "2026-04-30T11:45:11Z",
@@ -853,11 +989,16 @@
             "url": "https://i.ytimg.com/vi/fsDaDxIIVYU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/fsDaDxIIVYU/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 16,
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fsDaDxIIVYU"
@@ -872,7 +1013,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "l20nBemjD0RPbnQLsIE9T7-hItY",
+      "etag": "IVQhe1A5X49fc8rZ_ULQYvGAofE",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4wRjA0RDE2QTUwMTk2MkY2",
       "snippet": {
         "publishedAt": "2026-04-24T13:19:14Z",
@@ -904,11 +1045,16 @@
             "url": "https://i.ytimg.com/vi/FxL7WeTn92g/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/FxL7WeTn92g/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 17,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "FxL7WeTn92g"
@@ -923,7 +1069,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "S5W4TCMX5MiVztuA0DcykaPdJE8",
+      "etag": "XXMfI_tazzS2tDRY4glxrEIDnqI",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5CMTk0M0ExREZBODAzNDUw",
       "snippet": {
         "publishedAt": "2026-04-16T11:20:54Z",
@@ -955,11 +1101,16 @@
             "url": "https://i.ytimg.com/vi/BsCyu-fjokk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/BsCyu-fjokk/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 18,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "BsCyu-fjokk"
@@ -974,7 +1125,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "RmdNuPOF6ppLuupMTj5dBSERUpQ",
+      "etag": "JVQJYLMaNmmTU2V6mu92pg2UFqE",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yMDAwMzEwNzAzNENFRTUw",
       "snippet": {
         "publishedAt": "2026-04-09T02:48:46Z",
@@ -1006,11 +1157,16 @@
             "url": "https://i.ytimg.com/vi/1hqvyRjUUpY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/1hqvyRjUUpY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 19,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "1hqvyRjUUpY"
@@ -1025,7 +1181,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jeK-A7JROlRKJLs9w5JBqI3P5eQ",
+      "etag": "b5KZsgFkqRs67h5UZYub0cgq2WA",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BNDc1MTI1RDk0OTgwQjFC",
       "snippet": {
         "publishedAt": "2026-04-02T03:24:19Z",
@@ -1057,11 +1213,16 @@
             "url": "https://i.ytimg.com/vi/EayqMZeiQhQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/EayqMZeiQhQ/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 20,
+        "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EayqMZeiQhQ"
@@ -1076,7 +1237,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zkrCNAd9kOuuoKQz0zRvQi1XIGw",
+      "etag": "AM24WtgYhO4N5zqTke9UfvmGR3U",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BN0Q0NTk3QTY3NEFDOTE1",
       "snippet": {
         "publishedAt": "2026-03-26T13:44:50Z",
@@ -1108,11 +1269,16 @@
             "url": "https://i.ytimg.com/vi/LrBqTAm6BCU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/LrBqTAm6BCU/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 21,
+        "position": 22,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LrBqTAm6BCU"
@@ -1127,7 +1293,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6FNBAp8INrk7Hh2hg8FUIklbrmU",
+      "etag": "j_gHb1rovIUzMMcrqLgbsLyfYwE",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5GQjMwOTIyMjFDNDRBODY5",
       "snippet": {
         "publishedAt": "2026-03-19T14:59:59Z",
@@ -1159,11 +1325,16 @@
             "url": "https://i.ytimg.com/vi/Zi0kGNknkPE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/Zi0kGNknkPE/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 22,
+        "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Zi0kGNknkPE"
@@ -1178,7 +1349,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cQvIrEPO0R2SegupWCb7KH4eEJ4",
+      "etag": "nwtvSBL914U7bBUsai1eNW9oQ1Y",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5FRDBBQjE3MzdGNDBGMEJE",
       "snippet": {
         "publishedAt": "2026-03-12T15:07:59Z",
@@ -1210,11 +1381,16 @@
             "url": "https://i.ytimg.com/vi/ltYKj9YaeMI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/ltYKj9YaeMI/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 23,
+        "position": 24,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ltYKj9YaeMI"
@@ -1229,7 +1405,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kELMu5CzXcCQbZ3_0OKbFRYC1RE",
+      "etag": "UVSKiamkFiwrKhaXcbNOel2lb_g",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC42RjkxMEE5MTI1MzBCOEIw",
       "snippet": {
         "publishedAt": "2026-03-05T02:10:14Z",
@@ -1261,11 +1437,16 @@
             "url": "https://i.ytimg.com/vi/9iH6YFQj_Uc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/9iH6YFQj_Uc/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 24,
+        "position": 25,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9iH6YFQj_Uc"
@@ -1280,7 +1461,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VcCpNm20hNpa-iRPCcMdR93Alw8",
+      "etag": "DlBn3GNRRIAtFx1d4_vkiO9Q9Po",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yMUI5NkExNjhCMDc5RjRD",
       "snippet": {
         "publishedAt": "2026-02-26T11:18:56Z",
@@ -1312,11 +1493,16 @@
             "url": "https://i.ytimg.com/vi/B97x3ubEac8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/B97x3ubEac8/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 25,
+        "position": 26,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "B97x3ubEac8"
@@ -1331,7 +1517,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bGVT09a_R9hHlLyzZeaKEo_8l7Y",
+      "etag": "5JbVHCgtbptxCDLG8VusiMeGr8A",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4xN0EwMDIyNjM0N0FGMkUw",
       "snippet": {
         "publishedAt": "2026-02-19T15:01:56Z",
@@ -1367,7 +1553,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 26,
+        "position": 27,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "7gJm6NerlBI"
@@ -1382,7 +1568,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "e1-FjjIc98fPibu4aVr6nO5_F7Q",
+      "etag": "I6COdvW2aF2dp7AdgyfPEJsyzwE",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC41MTA4RkYwMjM4QzhBNTE3",
       "snippet": {
         "publishedAt": "2026-02-10T18:44:01Z",
@@ -1418,7 +1604,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 27,
+        "position": 28,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jeIENl4s-eI"
@@ -1433,7 +1619,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gRK5D3tqXzBbensS_vgggVFVORo",
+      "etag": "-QDMegkF7lP6Iz6YpKrhUi5K_tM",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5EMjg2Q0U4RjAyNjZDOTI2",
       "snippet": {
         "publishedAt": "2026-02-05T16:34:59Z",
@@ -1469,7 +1655,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 28,
+        "position": 29,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "RxlxyPWGsOo"
@@ -1484,7 +1670,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gKPj2jhW2g-lQgznHdWXsg_7MDI",
+      "etag": "kh36upnMBS6Wn8pYwAZn-0IusV0",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC42QzUzNDk3NEJCNjU2ODcx",
       "snippet": {
         "publishedAt": "2026-01-29T16:29:35Z",
@@ -1520,7 +1706,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 29,
+        "position": 30,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dDR0BaW7LRk"
@@ -1535,7 +1721,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZVwju6MOzeqWJJoGyZEZaNe-_Ks",
+      "etag": "tvWJE3E2V5U6KgehEzdpPuzLS08",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4wRUM0NDVEMzZDODkxRUQ3",
       "snippet": {
         "publishedAt": "2026-01-22T15:34:45Z",
@@ -1571,7 +1757,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 30,
+        "position": 31,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "zOuZDL5Zulc"
@@ -1586,7 +1772,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kOLGo_4TqG3OmmCME3WD16Qav8M",
+      "etag": "cX0j2PrnrEvCWSDC6_yuQRv6rt8",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4zOTExNTAwOERBMTNFRUM4",
       "snippet": {
         "publishedAt": "2026-01-15T01:25:28Z",
@@ -1622,7 +1808,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 31,
+        "position": 32,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0WPCuhxHjX0"
@@ -1637,7 +1823,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cA2L1Y1m55urg2ggZOgY8PGtI7w",
+      "etag": "Uj6QYEDU-khoOb44AvjPUCKWZxA",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC44NEE4MTNBOUY2MDRFRUU4",
       "snippet": {
         "publishedAt": "2026-01-08T14:31:58Z",
@@ -1673,7 +1859,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 32,
+        "position": 33,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Bs_l0AXC0lk"
@@ -1688,7 +1874,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NVkngF7MdIexx2h9YtoH_LmwHQM",
+      "etag": "lSX115DxxFSIjFQ3Qlwxo9t7yUU",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5CNzc5NTU4RTg3Q0EyRUZE",
       "snippet": {
         "publishedAt": "2025-12-18T15:52:29Z",
@@ -1724,7 +1910,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 33,
+        "position": 34,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lIQd-zokVnQ"
@@ -1739,7 +1925,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6cAkUZO36YDHtFFkm6b9-1mY_6A",
+      "etag": "7SWnEhrLGTvXDupX5sHngR480Vc",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5GMzZFODZFNzVCN0JFNzhE",
       "snippet": {
         "publishedAt": "2025-12-18T15:44:14Z",
@@ -1775,7 +1961,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 34,
+        "position": 35,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "5LSlLzgQGFs"
@@ -1790,7 +1976,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HiLtABqegqpyeakC60XLkt8RZYc",
+      "etag": "9v9WiEWqhfdw5n3-vxGVKAeP-BA",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BODVEMjUxQTc4NkJFMEY3",
       "snippet": {
         "publishedAt": "2025-12-16T16:56:52Z",
@@ -1826,7 +2012,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 35,
+        "position": 36,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jZqJiLwhX4c"
@@ -1841,7 +2027,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hLZggWY0oCOFUpAqtlLWujjHszs",
+      "etag": "gQevQBGV2QdZYXVRPjU-r7qg_rE",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC44QzE1MTg5OTI3Mzk2QjRD",
       "snippet": {
         "publishedAt": "2025-12-11T04:58:16Z",
@@ -1877,7 +2063,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 36,
+        "position": 37,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yaVYBvZQX54"
@@ -1892,7 +2078,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "A5W-r-7T2kTAv5rvNQ27oCqFzSI",
+      "etag": "_ERFJjWT4skz0erckD9mU_rWGMo",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yQUFFQjdBMkNCNzYzMzQ5",
       "snippet": {
         "publishedAt": "2025-12-04T04:59:40Z",
@@ -1928,7 +2114,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 37,
+        "position": 38,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CAP2LtrIt5s"
@@ -1943,7 +2129,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "njFIIxz-k7MAXwUGpp8ncnln47w",
+      "etag": "jlbUN-x_H1wWtgZrgHOlOKaYDtY",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yMkQ1M0U2NzVEOTA2MTY5",
       "snippet": {
         "publishedAt": "2025-11-27T17:59:15Z",
@@ -1979,7 +2165,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 38,
+        "position": 39,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yu9VF2UxZbY"
@@ -1994,7 +2180,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "upN98JIGLpW8AGRMS-dX51S1j3g",
+      "etag": "F2AA0o6WSOmjH36jt7_JnkJblHQ",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5FNzRDNDIwRDUwRDE4QUI1",
       "snippet": {
         "publishedAt": "2025-11-20T09:05:52Z",
@@ -2030,7 +2216,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 39,
+        "position": 40,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "RKecGqOC8HI"
@@ -2045,7 +2231,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "24qlGYY9_k3jznuS2qcDO6LHskU",
+      "etag": "iHve_4aGyhrQlxNewAQnpsqRXnk",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4xN0E0QjgwRkVBM0I5Nzg1",
       "snippet": {
         "publishedAt": "2025-11-13T13:29:46Z",
@@ -2081,7 +2267,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 40,
+        "position": 41,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "93tsI-9C8Vw"
@@ -2096,7 +2282,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PHpNJ9oxbV5R7yarS-xhabupDiQ",
+      "etag": "CAVI5AUSw__Pcoq8Vgvgd1LHfvc",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5GNjg5RUYzREMzMDcxOUYw",
       "snippet": {
         "publishedAt": "2025-11-05T19:25:27Z",
@@ -2132,7 +2318,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 41,
+        "position": 42,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "khrl2-nScAQ"
@@ -2147,7 +2333,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Sr5nvnn5MW9uAHCyFsoROqFMqeI",
+      "etag": "x3MDXQ1cNUGLPmK8JSQoRLW7z0A",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yMjgwQkZBOEI2MEQxMkUy",
       "snippet": {
         "publishedAt": "2025-10-30T13:19:54Z",
@@ -2183,7 +2369,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 42,
+        "position": 43,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "VuU6nP7iWGo"
@@ -2198,7 +2384,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "aKrO7t2NNJF39QCabjx-tAcnhVA",
+      "etag": "MGtcqO-oV8nqcSERIKqnl5YFnxE",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yM0IwNzUxRTc3MTg4Njkw",
       "snippet": {
         "publishedAt": "2025-10-23T15:51:47Z",
@@ -2234,7 +2420,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 43,
+        "position": 44,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "YsP-0wt9DEQ"
@@ -2249,7 +2435,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UqojIergq0xEODvxmDk3-n_lYZs",
+      "etag": "SwHGEAWfvofwyUqX80znH1U7zfI",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BNDI5NDg0OENEMDMwMERC",
       "snippet": {
         "publishedAt": "2025-10-16T14:32:48Z",
@@ -2285,7 +2471,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 44,
+        "position": 45,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "GMnX12fuxyI"
@@ -2300,7 +2486,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5saok7is4sIlMsJaiRkHekfVs5Q",
+      "etag": "nPTyc8zdpjFOj3CU42QsJOM1TQg",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC43QzAwQzY2Q0M0MTU1QkIz",
       "snippet": {
         "publishedAt": "2025-10-09T15:32:08Z",
@@ -2336,7 +2522,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 45,
+        "position": 46,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "g3rDZ_G-26M"
@@ -2351,7 +2537,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JqNGvyXjkS_2agD3i8YnFkmZiTs",
+      "etag": "vAOYfhnnHultpV-5f8FC-fmawx4",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5GQ0M4MEE3OTlDNzM0MTAz",
       "snippet": {
         "publishedAt": "2025-10-02T02:48:40Z",
@@ -2387,7 +2573,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 46,
+        "position": 47,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "se-CQM_rXwM"
@@ -2402,7 +2588,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ufy289O8u25rY7pjYtTBYfC6cHE",
+      "etag": "5CASuCoA9jKnZRTAoOX9ub_QSXQ",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BOUY1N0EyNkY3QzlGOEM3",
       "snippet": {
         "publishedAt": "2025-09-25T17:12:19Z",
@@ -2438,7 +2624,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 47,
+        "position": 48,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "mTFheAj44e4"
@@ -2453,7 +2639,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "KXHaAy8rydu8T3M-Y9KtbggZD7s",
+      "etag": "nk_Z-1wYzzizoSnxww29UdPJh6w",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC44NkRBODFEMUYwNzE0NDcy",
       "snippet": {
         "publishedAt": "2025-09-18T01:10:45Z",
@@ -2489,7 +2675,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 48,
+        "position": 49,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "B-XEE8_2MAs"
@@ -2501,62 +2687,11 @@
         "videoId": "B-XEE8_2MAs",
         "videoPublishedAt": "2025-09-18T16:15:01Z"
       }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "PcYhYju_8cj1yxXSrOZ7uYD5Iu4",
-      "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC41MkY4MEFEMzE4Q0IyQ0E4",
-      "snippet": {
-        "publishedAt": "2025-09-11T00:33:10Z",
-        "channelId": "UCiUhKqsBH-Is2VeC2sykEfg",
-        "title": "What'll Dethrone Our Game Of The Year? - The MinnMax Show",
-        "description": "https://www.patreon.com/minnmax - Unlock a benefit and directly support independent games media\n\nMinnMax's Ben Hanson, Janet Garcia, Kyle Hilliard, and Jeff Marchiafava run through their current personal Game of the Year pick (and some runner-ups) before shifting over to the horizon and speculating about which upcoming 2025 game could claim the top spot? Ghost of Yōtei? Mina The Hollower? Then we talk about The Rogue Prince of Persia and why Evil Empire's follow-up to their work on Dead Cells isn't making a bigger splash. Then we answer questions submitted on Patreon by the community and award the iam8bit question of the week! You can win a prize and help make the show better by supporting us on Patreon and submitting a question! https://www.patreon.com/minnmax\n\nHelp support MinnMax's supporters!\nhttps://www.iam8bit.com - 10% off with Promo Code: EARTHWINDANDGAMES\n\nTo jump to a particular discussion, check out the timestamps below... \n\n00:00:00 - Intro\n00:02:48 - Our Game of the Year (at this point)\n00:02:55 - Clair Obscur: Expedition 33\n00:04:22 - Blue Prince\n00:06:59 - Despelote\n00:09:05 - Aotenjo: Infinite Hands\n00:10:14 - Merge Maestro\n00:10:42 - The Roottrees Are Dead\n00:11:36 - Hollow Knight: Silksong\n00:23:33 - Donkey Kong Bananza\n00:26:53 - Keep Driving\n00:28:48 - What can dethrone GOTY? Ghost of Yōtei, Mixtape, Lumines Arise?\n00:39:11 - The Rogue Prince of Persia\n01:00:26 - Cronos: The New Dawn\n01:10:33 - Thanking iam8bit - https://www.iam8bit.com/\n01:12:18 - Community questions\n01:48:29 - Get A Load Of This\nJanet’s GALOT - https://sallysbakingaddiction.com/\nJeffM's GALOT - https://www.youtube.com/watch?v=wG4zLcKsCiA\nHanson's GALOT - https://bsky.app/profile/did:plc:bhqrrxt7yyfpwguioa7rwa7x/post/3lyftys4rhk2u?ref_src=embed\nKyle's GALOT - https://bsky.app/profile/kylehilliard.com/post/3lxqln2a4rs26\nCommunity GALOT - https://www.spirithalloween.com/product/haunted-halloween-86-spirit-edition/280859.uts\n\nDisclosure - Games discussed on MinnMax content are most often provided for free by the publisher or developer.\n\nSupport us on Patreon - https://www.patreon.com/minnmax\nSupport MinnMax directly on YouTube - https://youtube.com/minnmax/join\nFollow us on Twitch - https://www.twitch.tv/minnmaxshow\nSubscribe to our YouTube channel - https://www.youtube.com/minnmax\nSubscribe to our solo stream channel - https://www.youtube.com/@MinnMaxStreamArchives\nCatch up on the best of MinnMax - https://bit.ly/4gAc6eq\nBuy MinnMax merch here - https://minnmax.com/merch\nFollow us on Bluesky - https://bsky.app/profile/minnmax.com\nGo behind the scenes on Instagram - https://www.instagram.com/minnmaxshow\n\n#minnmax\n#minnmaxshow\n#gameinformer",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/a-4M3oBgA7M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/a-4M3oBgA7M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/a-4M3oBgA7M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/a-4M3oBgA7M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/a-4M3oBgA7M/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MinnMax",
-        "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 49,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "a-4M3oBgA7M"
-        },
-        "videoOwnerChannelTitle": "MinnMax",
-        "videoOwnerChannelId": "UCiUhKqsBH-Is2VeC2sykEfg"
-      },
-      "contentDetails": {
-        "videoId": "a-4M3oBgA7M",
-        "videoPublishedAt": "2025-09-11T16:15:00Z"
-      }
     }
   ],
   "pageInfo": {
-    "totalResults": 361,
+    "totalResults": 362,
     "resultsPerPage": 50
   },
-  "timestamp": 1787501102064
+  "timestamp": 1788400526820
 }
