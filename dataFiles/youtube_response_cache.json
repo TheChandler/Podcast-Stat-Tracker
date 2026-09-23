@@ -1,11 +1,179 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "7LEuAUdGBF9qPaxqg0K0HHrDmCE",
-  "nextPageToken": "EAAaHlBUOkNESWlFRFV5Umpnd1FVUXpNVGhEUWpKRFFUZw",
+  "etag": "2u6tgollM1Y7mIHO-g80g91nFwM",
+  "nextPageToken": "EAAaHlBUOkNESWlFRVpEUXpnd1FUYzVPVU0zTXpReE1ETQ",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "cilofMBchqKis3DPzzJtKmnbnCg",
+      "etag": "ZYA4XCSTWg7aG7K98VZkFMYKGEg",
+      "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5DREQyNTBBODE4MzEyMjg4",
+      "snippet": {
+        "publishedAt": "2026-09-17T01:50:38Z",
+        "channelId": "UCiUhKqsBH-Is2VeC2sykEfg",
+        "title": "Control Resonant, Sony Dumps Kojima, Wolverine Rage - The MinnMax Show",
+        "description": "Join The Deepest Dive on Control Resonant - https://www.patreon.com/minnmax/posts/get-ready-for-on-169799000\n\nMinnMax's Ben Hanson, Kyle Hilliard, Janet Garcia, and Jeff Marchiafava share their early thoughts on Remedy's Control Resonant before venturing into the year 2030 and talking about PlayStation dropping Hideo Kojima's Metal Gear follow-up Physint and Blizzard announcing a new take on StarCraft as an open-world shooter. Then we descend back into the Marvel mines as Jeff and Janet weigh in on Insomniac's Wolverine and the reaction to the reviews online. Then we answer questions submitted on Patreon by the community and award the iam8bit question of the week! You can win a prize and help make the show better by supporting us on Patreon and submitting a question! https://www.patreon.com/minnmax\n\nHelp support MinnMax's supporters!\nhttps://www.iam8bit.com - 10% off with Promo Code: SUNSET\nhttps://www.brooklynbedding.com - 30% off with Promo Code: MINNMAX\nhttps://www.factormeals.com/minnmax50off - 50% off with Promo Code: MINNMAX50OFF\n\nTo jump to a particular discussion, check out the timestamps below... \n00:00:00 - Intro\n00:02:24 - Fire Emblem: Fortune's Weave reviews\n00:03:34 - Control Resonant\n00:26:45 - Brooklyn Bedding\n00:28:43 - Xbox picks up Hideo Kojima's Physint\n00:45:34 - Diablo V and BlizzCon 2026 announcements\n00:46:25 - Starcraft\n00:55:22 - Factor Meals\n00:57:37 - The reaction to Marvel's Wolverine\n01:31:16 - Combolands: Roguelike Citybuilder\n01:35:08 - Order Automatica\n01:39:14 - Thanking iam8bit - https://www.iam8bit.com/\n01:40:46 - Community questions\n02:21:19 - Get A Load Of This\nJanet’s GALOT - https://pixelframe.design/metroid-ravenous-logo-and-font-generator/\nJeffM's GALOT - https://apps.apple.com/us/app/protube-block-ads-on-video/id6748081431\nBen's GALOT - https://www.reddit.com/r/MinnMax/s/PNhNmYeXJC\nKyle's GALOT - https://bsky.app/profile/sfbdim.bsky.social/post/3mnffjjpwnk2f\nCommunity GALOT - https://www.lostincult.co.uk/tsukamoto \n\n*Disclosure - Games discussed on MinnMax content are most often provided for free by the publisher or developer.*\n\nSupport us on Patreon - https://www.patreon.com/minnmax\nSupport MinnMax directly on YouTube - https://youtube.com/minnmax/join\nFollow us on Twitch - https://www.twitch.tv/minnmaxshow\nSubscribe to our YouTube channel - https://www.youtube.com/minnmax\nSubscribe to our solo stream channel - https://www.youtube.com/@MinnMaxStreamArchives\nBuy MinnMax merch here - https://minnmax.com/merch\nFollow us on Bluesky - https://bsky.app/profile/minnmax.com\nGo behind the scenes on Instagram - https://www.instagram.com/minnmaxshow\n\n#minnmax\n#minnmaxshow\n#gameinformer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a_7Jf0NMHRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a_7Jf0NMHRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a_7Jf0NMHRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a_7Jf0NMHRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a_7Jf0NMHRc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/a_7Jf0NMHRc/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "MinnMax",
+        "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a_7Jf0NMHRc"
+        },
+        "videoOwnerChannelTitle": "MinnMax",
+        "videoOwnerChannelId": "UCiUhKqsBH-Is2VeC2sykEfg"
+      },
+      "contentDetails": {
+        "videoId": "a_7Jf0NMHRc",
+        "videoPublishedAt": "2026-09-18T14:15:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VbAPiSZUdtM4rffIbq091MRt6Rw",
+      "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5CNTk5RDhGNzdCMkRBRDUz",
+      "snippet": {
+        "publishedAt": "2026-09-10T07:47:09Z",
+        "channelId": "UCiUhKqsBH-Is2VeC2sykEfg",
+        "title": "Wolverine Review, Metroid Ravenous, FFVII Revelation Preview - The MinnMax Show",
+        "description": "We’ll DM you a Steam code for Double Fine’s Keeper AND Kiln (the newly independent studio!) if you're a new MinnMax supporter at the $5 tier by the end of Monday, September 14th. Support independent media, celebrate Double Fine! https://www.patreon.com/minnmax\n\nMinnMax's Ben Hanson, Kyle Hilliard, Haley MacLean, and Jacob Geller share highlights from the Nintendo Directs this week including the reveal of Metroid Ravenous and gameplay for The Legend of Zelda: Ocarina of Time. Then we unleash our thoughts on Marvel's Wolverine from Insomniac on the PlayStation 5 in a spoiler-free review discussion. Codes were provided by PlayStation, as they prefer we point out. Then Ben talks about playing Final Fantasy VII Revelation at PAX West and Haley sings the praises of Soverign Tower. Then we answer questions submitted on Patreon by the community and award the iam8bit question of the week! You can win a prize and help make the show better by supporting us on Patreon and submitting a question! https://www.patreon.com/minnmax\n\nHelp support MinnMax's supporters!\nhttps://www.iam8bit.com - 10% off with Promo Code: SUNSET\nhttps://www.protonvpn.com/minnmax - 70% off two year plan\nhttps://www.factormeals.com/minnmax50offf - 50% off with code MINNMAX50OFF\n\nTo jump to a particular discussion, check out the timestamps below... \n00:00:00 - Intro\n00:05:12 - Get Double Fine codes\n00:07:05 - The Legend of Zelda: Ocarina of Time remake\n00:20:48 - Nintendo Direct highlights\n00:21:00 - Onyx: The Dark Grip\n00:22:02 - Krby and the World Beyond\n00:24:46 - Metroid Ravenous\n00:30:11 - Factor meals\n00:31:53 - Marvel's Wolverine\n01:07:01 - Proton VPN\n01:08:07 - Final Fantasy VII Revelation preview\n01:30:51 - Sovereign Tower\n01:36:42 - Thanking iam8bit - https://www.iam8bit.com/\n01:38:43 - Community questions\n02:25:54 - Get A Load Of This\nHaley’s GALOT - https://www.ctvnews.ca/atlantic/nova-scotia/article/totally-stunned-struggling-ns-libraries-react-to-heated-rivalry-authors-300k-donation/\nKyle's GALOT - https://www.youtube.com/watch?v=960fwN8nCpE\nBen's GALOT - https://en.wikipedia.org/wiki/Dendroclimatology\nJacob's GALOT - https://youtu.be/yLt-CyqzYtM?si=2dazi7NzDDhz7l6r\nCommunity GALOT - https://youtu.be/ELD-f3sCKDc?si=1ANQlBGVWkHl-9sG\n\n*Disclosure - Games discussed on MinnMax content are most often provided for free by the publisher or developer.*\n\nSupport us on Patreon - https://www.patreon.com/minnmax\nSupport MinnMax directly on YouTube - https://youtube.com/minnmax/join\nFollow us on Twitch - https://www.twitch.tv/minnmaxshow\nSubscribe to our YouTube channel - https://www.youtube.com/minnmax\nSubscribe to our solo stream channel - https://www.youtube.com/@MinnMaxStreamArchives\nBuy MinnMax merch here - https://minnmax.com/merch\nFollow us on Bluesky - https://bsky.app/profile/minnmax.com\nGo behind the scenes on Instagram - https://www.instagram.com/minnmaxshow\n\n#minnmax\n#minnmaxshow\n#gameinformer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EyHLKa0UPSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EyHLKa0UPSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EyHLKa0UPSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EyHLKa0UPSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EyHLKa0UPSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/EyHLKa0UPSY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "MinnMax",
+        "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EyHLKa0UPSY"
+        },
+        "videoOwnerChannelTitle": "MinnMax",
+        "videoOwnerChannelId": "UCiUhKqsBH-Is2VeC2sykEfg"
+      },
+      "contentDetails": {
+        "videoId": "EyHLKa0UPSY",
+        "videoPublishedAt": "2026-09-10T16:15:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BS7n1AJLafdcHgKI41sXICU_q0A",
+      "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5GQ0FFREZGNjRBNUVFQUVB",
+      "snippet": {
+        "publishedAt": "2026-09-03T02:17:02Z",
+        "channelId": "UCiUhKqsBH-Is2VeC2sykEfg",
+        "title": "Onimusha Review, Orbitals, Final Fantasy Resonance - The MinnMax Show",
+        "description": "https://www.patreon.com/minnmax - Unlock a benefit and directly support independent games media\n\nMinnMax's Ben Hanson, Kyle Hilliard, Jacob Geller, and returning champion Charles Harte celebrate Capcom for nailing basically everything with Onimusha: Way of the Sword. Then we talk about the new mandatory co-op Switch 2 exclusive Orbitals, playing Mega Man: Dual Override at Gamescom, The Blood of Dawnwalker from Witcher 3's director, Resonance: A Plague Tale Legacy, and (of course) a preview of Final Fantasy Resonance. Then we answer questions submitted on Patreon by the community and award the iam8bit question of the week! You can win a prize and help make the show better by supporting us on Patreon and submitting a question! https://www.patreon.com/minnmax\n\nLearn more about MinnMax's Seattle community meetup and PAX panels this weekend! https://www.patreon.com/minnmax/posts/come-to-minnmaxs-165858157\n\nHelp support MinnMax's supporters!\nhttps://www.iam8bit.com - 10% off with Promo Code: IAM8BEACH\n\nNever Stop Blasting Off Tabletop Rules - https://drive.google.com/drive/u/1/folders/1u1HTQLD_vJdS61LI3weS8z7K1DCBVy9e\n\nCharles' Lunch Songs - https://on.soundcloud.com/q8Zm12A8uroh59e2A2\n\nGame Informer Exodus cover story - https://gameinformer.com/Exodus\n\nTo jump to a particular discussion, check out the timestamps below... \n00:00:00 - Intro\n00:05:40 - Onimusha: Way of the Sword\n00:25:31 - Orbitals\n00:42:20 - Mega Man: Dual Override\n00:52:14 - The Blood of Dawnwalker\n01:04:18 - Metal Gear Solid Master Collection Vol 2\n01:13:54 - Resonance: A Plague Tale Legacy\n01:19:46 - Final Fantasy Resonance\n01:29:10 - Thanking iam8bit - https://www.iam8bit.com/\n01:31:00 - Community questions\n02:26:21 - Get A Load Of This\nCharles’ GALOT - https://gameinformer.com/2026/09/02/mario-kart-8-deluxe-just-got-a-switch-2-update-adding-local-8-player-and-more\nJacob's GALOT - https://youtu.be/BARAHLk-8dk?si=gJEnnoE6LANwOqA7\nBen's GALOT -https://www.youtube.com/watch?v=91IC1lpGYds\nKyle's GALOT - https://www.youtube.com/watch?v=PNnq5Tg-DEo\nCommunity GALOT -https://www.berkeleyside.org/2026/08/27/star-wars-memorabilia-for-sale-tippett-studio-closure\n\nDisclosure - Games discussed on MinnMax content are most often provided for free by the publisher or developer.\n\nSupport us on Patreon - https://www.patreon.com/minnmax\nSupport MinnMax directly on YouTube - https://youtube.com/minnmax/join\nFollow us on Twitch - https://www.twitch.tv/minnmaxshow\nSubscribe to our YouTube channel - https://www.youtube.com/minnmax\nSubscribe to our solo stream channel - https://www.youtube.com/@MinnMaxStreamArchives\nBuy MinnMax merch here - https://minnmax.com/merch\nFollow us on Bluesky - https://bsky.app/profile/minnmax.com\nGo behind the scenes on Instagram - https://www.instagram.com/minnmaxshow\n\n#minnmax\n#minnmaxshow\n#gameinformer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bK8sirxgMcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bK8sirxgMcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bK8sirxgMcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bK8sirxgMcY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bK8sirxgMcY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/bK8sirxgMcY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "MinnMax",
+        "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bK8sirxgMcY"
+        },
+        "videoOwnerChannelTitle": "MinnMax",
+        "videoOwnerChannelId": "UCiUhKqsBH-Is2VeC2sykEfg"
+      },
+      "contentDetails": {
+        "videoId": "bK8sirxgMcY",
+        "videoPublishedAt": "2026-09-03T16:10:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_Q8Jcz0eInAoi2XXdByuQ4wZhHQ",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BNzVDNTJBQkJBOTRGRUMw",
       "snippet": {
         "publishedAt": "2026-08-28T13:13:39Z",
@@ -46,7 +214,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 0,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "PzSq3CfRT0w"
@@ -61,7 +229,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "QgGY54196ww8DOy0ktCeF3Vo0n4",
+      "etag": "Z-kbbi4WKdlqcDHgLWJ4lUYIXM4",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC44OUQ3NTI3QjhGMTRCODVD",
       "snippet": {
         "publishedAt": "2026-08-20T13:46:34Z",
@@ -102,7 +270,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 1,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kY3ouSfx8hM"
@@ -117,7 +285,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jb05FbDhfvVPE6QR9NMmN8ou19E",
+      "etag": "ZwhSkqGZVnjC2zmiFaodBigOGUs",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yQkQ3QUY2RTlGRjM3MTJE",
       "snippet": {
         "publishedAt": "2026-08-13T16:06:48Z",
@@ -158,7 +326,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 2,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "KMrVUfTvIxU"
@@ -173,7 +341,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "eLN_1R6VoyWupwhfOryGwG-6fIs",
+      "etag": "8lBwtU6iF6rEvLqX_cW7AWot-I8",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4xNjFBQzY0OEY1QzAxNjJE",
       "snippet": {
         "publishedAt": "2026-08-06T12:53:30Z",
@@ -214,7 +382,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 3,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "E1TrKkgjBlI"
@@ -229,7 +397,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HeWBfYTg4cHIKSKIcVo-toGqy5Y",
+      "etag": "MhXVd17NKOpZrj7qhRUbghuEci4",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5DRDZEMDAwRUY1NTJCODA1",
       "snippet": {
         "publishedAt": "2026-07-30T14:33:46Z",
@@ -270,7 +438,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 4,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lVU12SQvXJI"
@@ -285,7 +453,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "bLyaZjJE_bpkrMyKWFI5Q3MYHVA",
+      "etag": "HUfS1Aa-C7hueVi_FN2ofx1TELY",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4wMUIyRTdBMEU5MDlCNTk2",
       "snippet": {
         "publishedAt": "2026-07-23T02:01:53Z",
@@ -326,7 +494,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 5,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "V60zqo74V98"
@@ -341,7 +509,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gFJj2-vleHW3Z4zleJ_br6YJWLQ",
+      "etag": "eIOlKuQlu-YnAtKBCt8FiosN3q4",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4wNzVFQUYyOUU3MUFCN0E4",
       "snippet": {
         "publishedAt": "2026-07-16T09:24:33Z",
@@ -382,7 +550,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 6,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "DvVdpMnQhSg"
@@ -397,7 +565,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YFqwaVvu0y0kSIyRjgOGfZEqpzQ",
+      "etag": "Tcpx71ElFvfS1boexFlO-MUmZgA",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5FMjIzQTZBODBCREYwN0Iz",
       "snippet": {
         "publishedAt": "2026-07-09T14:38:19Z",
@@ -438,7 +606,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 7,
+        "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Lj0XyTzStgg"
@@ -453,7 +621,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wmend7FDDXZkjvoRhA21yP2BGlA",
+      "etag": "NzZKTkn0fXwHOH-8x7eSg9hd1kU",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4zMzI1MzRGNURGODI4MkVC",
       "snippet": {
         "publishedAt": "2026-06-28T13:03:12Z",
@@ -494,7 +662,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 8,
+        "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CfLgV84kz_Q"
@@ -509,7 +677,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "72sIjJjeTMFGlY0KOPP7Mo5zEN4",
+      "etag": "FiqJGpiAOpZ87pauM8ThSjYDuwI",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC40MEE4MzM5MDQwOUEyQUZB",
       "snippet": {
         "publishedAt": "2026-06-25T18:35:25Z",
@@ -550,7 +718,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 9,
+        "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9fDMpOnmFtU"
@@ -565,7 +733,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "AEjv73I_-8TKllnG8XXbLsFUP_A",
+      "etag": "CQWUJaHlaCKjEJ1SZWzREu6Fnzk",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC44NEJEQTI3OTgwREEwMkMw",
       "snippet": {
         "publishedAt": "2026-06-18T12:10:59Z",
@@ -606,7 +774,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 10,
+        "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lOL3vaHTU9U"
@@ -621,7 +789,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DIFcRvJ9cqr0mBGvqiQgHceMOEA",
+      "etag": "q75TcM47RDjHj8dzq7Zuv9H5tAs",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5DQ0NEMjhGODBDMzAyRTUz",
       "snippet": {
         "publishedAt": "2026-06-11T03:18:04Z",
@@ -662,7 +830,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 11,
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "1nvMu8wDOHk"
@@ -677,7 +845,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "s3BFqzFxqWiIF42PphlrodGkmm8",
+      "etag": "MYWm1AU-AVuU6LowQSaxWAAq6lo",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC43ODUxQUQzOEI2RDEwM0FG",
       "snippet": {
         "publishedAt": "2026-06-04T02:13:00Z",
@@ -718,7 +886,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 12,
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "M68OMxYU1XQ"
@@ -733,7 +901,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "q_UN7SjJZ8cWPx16ankSY9YdCsw",
+      "etag": "fyDRzciLxM7uRDbh7YIig21Xgtk",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC41ODEzODFCRDIzQURGRjU5",
       "snippet": {
         "publishedAt": "2026-05-28T13:47:39Z",
@@ -774,7 +942,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 13,
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8VcAaoHjqy8"
@@ -789,7 +957,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_COZREJXDmk2WZiADP1LlqAxhDM",
+      "etag": "rDzxJo0aAUxiy88bbBjBqDNlWw0",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5FMTRBMDgyN0ZFQjY4Mzkw",
       "snippet": {
         "publishedAt": "2026-05-21T13:05:38Z",
@@ -830,7 +998,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 14,
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CP0hzVUTs54"
@@ -845,7 +1013,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "inPN-gXYwv0FXVQIa9rBTZ9ICFs",
+      "etag": "rEmXZg4X0jumBlH-uwsEKc1u6O4",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5DOTNDNjAwMzFFNUY5NzYy",
       "snippet": {
         "publishedAt": "2026-05-14T13:56:55Z",
@@ -886,7 +1054,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 15,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "IzaMo3AZv6E"
@@ -901,7 +1069,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "s0h-CJaUtlWK0MebZaW8iFT3B0I",
+      "etag": "rO-FUBJXoWj9GcFboK4umNLTsM4",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yNjFFMzVEMkVDRTRDOEMz",
       "snippet": {
         "publishedAt": "2026-05-07T12:21:09Z",
@@ -942,7 +1110,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 16,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "7nxS-s-jlR8"
@@ -957,7 +1125,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "SzcSVcEb1_23B5JF9f6yCwji9gc",
+      "etag": "wd3VBO1Ya5Gk6_TL-wuUb14lKQg",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4wOEE0NEE4QTk1RTc0MUJB",
       "snippet": {
         "publishedAt": "2026-04-30T11:45:11Z",
@@ -998,7 +1166,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 17,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fsDaDxIIVYU"
@@ -1013,7 +1181,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IVQhe1A5X49fc8rZ_ULQYvGAofE",
+      "etag": "OXaSYysd2_N9v0v5jQSUJy81OgY",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4wRjA0RDE2QTUwMTk2MkY2",
       "snippet": {
         "publishedAt": "2026-04-24T13:19:14Z",
@@ -1054,7 +1222,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 18,
+        "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "FxL7WeTn92g"
@@ -1069,7 +1237,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XXMfI_tazzS2tDRY4glxrEIDnqI",
+      "etag": "GvAv7IR-fwuN0qwSK5k5DmLhorE",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5CMTk0M0ExREZBODAzNDUw",
       "snippet": {
         "publishedAt": "2026-04-16T11:20:54Z",
@@ -1110,7 +1278,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 19,
+        "position": 22,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "BsCyu-fjokk"
@@ -1125,7 +1293,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JVQJYLMaNmmTU2V6mu92pg2UFqE",
+      "etag": "KJM2Lb2BNpbAflvr_cWRqxBJnhk",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yMDAwMzEwNzAzNENFRTUw",
       "snippet": {
         "publishedAt": "2026-04-09T02:48:46Z",
@@ -1166,7 +1334,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 20,
+        "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "1hqvyRjUUpY"
@@ -1181,7 +1349,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "b5KZsgFkqRs67h5UZYub0cgq2WA",
+      "etag": "njmK603CzuJ_t1FJ0mTxejb6bug",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BNDc1MTI1RDk0OTgwQjFC",
       "snippet": {
         "publishedAt": "2026-04-02T03:24:19Z",
@@ -1222,7 +1390,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 21,
+        "position": 24,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EayqMZeiQhQ"
@@ -1237,7 +1405,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "AM24WtgYhO4N5zqTke9UfvmGR3U",
+      "etag": "VHn-y-6vLUZLJ-9ewPbgfkr2RBM",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BN0Q0NTk3QTY3NEFDOTE1",
       "snippet": {
         "publishedAt": "2026-03-26T13:44:50Z",
@@ -1278,7 +1446,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 22,
+        "position": 25,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LrBqTAm6BCU"
@@ -1293,7 +1461,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "j_gHb1rovIUzMMcrqLgbsLyfYwE",
+      "etag": "FEglzEoQJ-_xEY-p_XRRLJkyrpE",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5GQjMwOTIyMjFDNDRBODY5",
       "snippet": {
         "publishedAt": "2026-03-19T14:59:59Z",
@@ -1334,7 +1502,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 23,
+        "position": 26,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Zi0kGNknkPE"
@@ -1349,7 +1517,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nwtvSBL914U7bBUsai1eNW9oQ1Y",
+      "etag": "KIcMIw7r2WBa22nxNa2lSpLUwV4",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5FRDBBQjE3MzdGNDBGMEJE",
       "snippet": {
         "publishedAt": "2026-03-12T15:07:59Z",
@@ -1390,7 +1558,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 24,
+        "position": 27,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ltYKj9YaeMI"
@@ -1405,7 +1573,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UVSKiamkFiwrKhaXcbNOel2lb_g",
+      "etag": "PRrIemKJlFwSQEq7qxG9OOYX0A0",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC42RjkxMEE5MTI1MzBCOEIw",
       "snippet": {
         "publishedAt": "2026-03-05T02:10:14Z",
@@ -1446,7 +1614,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 25,
+        "position": 28,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9iH6YFQj_Uc"
@@ -1461,7 +1629,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "DlBn3GNRRIAtFx1d4_vkiO9Q9Po",
+      "etag": "4d2kMnd3_dGs7z0Rc06PpPNHEy4",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yMUI5NkExNjhCMDc5RjRD",
       "snippet": {
         "publishedAt": "2026-02-26T11:18:56Z",
@@ -1502,7 +1670,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 26,
+        "position": 29,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "B97x3ubEac8"
@@ -1517,7 +1685,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5JbVHCgtbptxCDLG8VusiMeGr8A",
+      "etag": "MtEQeOYl5AsvswyfKOqEzOiAj4g",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4xN0EwMDIyNjM0N0FGMkUw",
       "snippet": {
         "publishedAt": "2026-02-19T15:01:56Z",
@@ -1553,7 +1721,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 27,
+        "position": 30,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "7gJm6NerlBI"
@@ -1568,7 +1736,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "I6COdvW2aF2dp7AdgyfPEJsyzwE",
+      "etag": "ch2qeh8mNwY8IbgPGQP422etQjg",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC41MTA4RkYwMjM4QzhBNTE3",
       "snippet": {
         "publishedAt": "2026-02-10T18:44:01Z",
@@ -1604,7 +1772,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 28,
+        "position": 31,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jeIENl4s-eI"
@@ -1619,7 +1787,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-QDMegkF7lP6Iz6YpKrhUi5K_tM",
+      "etag": "GlS1p4gXubD93A0kzTNvE3eQS5g",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5EMjg2Q0U4RjAyNjZDOTI2",
       "snippet": {
         "publishedAt": "2026-02-05T16:34:59Z",
@@ -1655,7 +1823,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 29,
+        "position": 32,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "RxlxyPWGsOo"
@@ -1670,7 +1838,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kh36upnMBS6Wn8pYwAZn-0IusV0",
+      "etag": "CjWZhVhNZnWxLRAQG3tlp9jzzO0",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC42QzUzNDk3NEJCNjU2ODcx",
       "snippet": {
         "publishedAt": "2026-01-29T16:29:35Z",
@@ -1706,7 +1874,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 30,
+        "position": 33,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dDR0BaW7LRk"
@@ -1721,7 +1889,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "tvWJE3E2V5U6KgehEzdpPuzLS08",
+      "etag": "IvE8LRzCX1vMGIaTBAZGajqRvLc",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4wRUM0NDVEMzZDODkxRUQ3",
       "snippet": {
         "publishedAt": "2026-01-22T15:34:45Z",
@@ -1757,7 +1925,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 31,
+        "position": 34,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "zOuZDL5Zulc"
@@ -1772,7 +1940,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cX0j2PrnrEvCWSDC6_yuQRv6rt8",
+      "etag": "2RztFL6l9QSJx3bSZQWgcd0b8WQ",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4zOTExNTAwOERBMTNFRUM4",
       "snippet": {
         "publishedAt": "2026-01-15T01:25:28Z",
@@ -1808,7 +1976,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 32,
+        "position": 35,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0WPCuhxHjX0"
@@ -1823,7 +1991,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Uj6QYEDU-khoOb44AvjPUCKWZxA",
+      "etag": "8MdZgPXDgEH7cSiQOxBY9UQmdI0",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC44NEE4MTNBOUY2MDRFRUU4",
       "snippet": {
         "publishedAt": "2026-01-08T14:31:58Z",
@@ -1859,7 +2027,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 33,
+        "position": 36,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Bs_l0AXC0lk"
@@ -1874,7 +2042,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lSX115DxxFSIjFQ3Qlwxo9t7yUU",
+      "etag": "AzRSa7jXTAk2ngezXOrjOa7coyk",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5CNzc5NTU4RTg3Q0EyRUZE",
       "snippet": {
         "publishedAt": "2025-12-18T15:52:29Z",
@@ -1910,7 +2078,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 34,
+        "position": 37,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lIQd-zokVnQ"
@@ -1925,7 +2093,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7SWnEhrLGTvXDupX5sHngR480Vc",
+      "etag": "UrsvIfdwoT0lmgJ_Y171meHMYNw",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5GMzZFODZFNzVCN0JFNzhE",
       "snippet": {
         "publishedAt": "2025-12-18T15:44:14Z",
@@ -1961,7 +2129,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 35,
+        "position": 38,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "5LSlLzgQGFs"
@@ -1976,7 +2144,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9v9WiEWqhfdw5n3-vxGVKAeP-BA",
+      "etag": "chjDdaGq3vgiwmpHjAoQ-mYBGHY",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BODVEMjUxQTc4NkJFMEY3",
       "snippet": {
         "publishedAt": "2025-12-16T16:56:52Z",
@@ -2012,7 +2180,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 36,
+        "position": 39,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jZqJiLwhX4c"
@@ -2027,7 +2195,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gQevQBGV2QdZYXVRPjU-r7qg_rE",
+      "etag": "13Xph4psvPXB03FhfnDea6F3g7k",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC44QzE1MTg5OTI3Mzk2QjRD",
       "snippet": {
         "publishedAt": "2025-12-11T04:58:16Z",
@@ -2063,7 +2231,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 37,
+        "position": 40,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yaVYBvZQX54"
@@ -2078,7 +2246,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_ERFJjWT4skz0erckD9mU_rWGMo",
+      "etag": "Zj1UiRSS1uCXzXspzy0F4lJE8pI",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yQUFFQjdBMkNCNzYzMzQ5",
       "snippet": {
         "publishedAt": "2025-12-04T04:59:40Z",
@@ -2114,7 +2282,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 38,
+        "position": 41,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "CAP2LtrIt5s"
@@ -2129,7 +2297,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jlbUN-x_H1wWtgZrgHOlOKaYDtY",
+      "etag": "zKe1Eya2K6s4s0MJomAa4GqSZEE",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yMkQ1M0U2NzVEOTA2MTY5",
       "snippet": {
         "publishedAt": "2025-11-27T17:59:15Z",
@@ -2165,7 +2333,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 39,
+        "position": 42,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yu9VF2UxZbY"
@@ -2180,7 +2348,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "F2AA0o6WSOmjH36jt7_JnkJblHQ",
+      "etag": "XvCHuszhK0AZgxog2QS_PbWG6ic",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5FNzRDNDIwRDUwRDE4QUI1",
       "snippet": {
         "publishedAt": "2025-11-20T09:05:52Z",
@@ -2216,7 +2384,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 40,
+        "position": 43,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "RKecGqOC8HI"
@@ -2231,7 +2399,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "iHve_4aGyhrQlxNewAQnpsqRXnk",
+      "etag": "kNZRB8WV4GM3HHBYpBjU8369pwU",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4xN0E0QjgwRkVBM0I5Nzg1",
       "snippet": {
         "publishedAt": "2025-11-13T13:29:46Z",
@@ -2267,7 +2435,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 41,
+        "position": 44,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "93tsI-9C8Vw"
@@ -2282,7 +2450,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "CAVI5AUSw__Pcoq8Vgvgd1LHfvc",
+      "etag": "nOzGNeXXep6p3f6vbb_ztdCt3qo",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5GNjg5RUYzREMzMDcxOUYw",
       "snippet": {
         "publishedAt": "2025-11-05T19:25:27Z",
@@ -2318,7 +2486,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 42,
+        "position": 45,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "khrl2-nScAQ"
@@ -2333,7 +2501,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "x3MDXQ1cNUGLPmK8JSQoRLW7z0A",
+      "etag": "mJxSHsFrc3ywGMkQI3FdROo810g",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yMjgwQkZBOEI2MEQxMkUy",
       "snippet": {
         "publishedAt": "2025-10-30T13:19:54Z",
@@ -2369,7 +2537,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 43,
+        "position": 46,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "VuU6nP7iWGo"
@@ -2384,7 +2552,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MGtcqO-oV8nqcSERIKqnl5YFnxE",
+      "etag": "TOAPsn00x0MGgK2nviw_2QoO8Mk",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC4yM0IwNzUxRTc3MTg4Njkw",
       "snippet": {
         "publishedAt": "2025-10-23T15:51:47Z",
@@ -2420,7 +2588,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 44,
+        "position": 47,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "YsP-0wt9DEQ"
@@ -2435,7 +2603,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "SwHGEAWfvofwyUqX80znH1U7zfI",
+      "etag": "njv6dFZqS0RNLlVsdeUYL4YYkdI",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BNDI5NDg0OENEMDMwMERC",
       "snippet": {
         "publishedAt": "2025-10-16T14:32:48Z",
@@ -2471,7 +2639,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 45,
+        "position": 48,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "GMnX12fuxyI"
@@ -2486,7 +2654,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nPTyc8zdpjFOj3CU42QsJOM1TQg",
+      "etag": "xOVJUU3w1UQfEqEnD9tjUHKXiEA",
       "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC43QzAwQzY2Q0M0MTU1QkIz",
       "snippet": {
         "publishedAt": "2025-10-09T15:32:08Z",
@@ -2522,7 +2690,7 @@
         },
         "channelTitle": "MinnMax",
         "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 46,
+        "position": 49,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "g3rDZ_G-26M"
@@ -2534,164 +2702,11 @@
         "videoId": "g3rDZ_G-26M",
         "videoPublishedAt": "2025-10-09T16:15:05Z"
       }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "vAOYfhnnHultpV-5f8FC-fmawx4",
-      "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5GQ0M4MEE3OTlDNzM0MTAz",
-      "snippet": {
-        "publishedAt": "2025-10-02T02:48:40Z",
-        "channelId": "UCiUhKqsBH-Is2VeC2sykEfg",
-        "title": "Hades 2 Review, Final Fantasy Tactics, Silent Hill F - The MinnMax Show",
-        "description": "https://www.patreon.com/minnmax - Unlock a benefit and directly support independent games media\n\nMinnMax's Ben Hanson, Haley MacLean, and Leo Vader are joined by Game Informer's Charles Harte to unpack the excellent Hades 2 from Supergiant Games. Then Kelsey Lewin and Sarah Podzorski join the show to talk about Consume Me, Silent Hill F, Blippo +, Road To Empress, Towa and the Guardians of the Sacred Tree. After that, Bloomberg's Jason Schreier joins the podcast to talk about EA going private and Final Fantasy Tactics. Then we answer questions submitted on Patreon by the community and award the iam8bit question of the week! You can win a prize and help make the show better by supporting us on Patreon and submitting a question! https://www.patreon.com/minnmax\n\nGet Jason Schreier's great book Play Nice: The Rise, Fall, and Future of Blizzard Entertainment in paperback on October 7th - https://bsky.app/profile/jasonschreier.bsky.social/post/3lxl4wo32hs2h\n\nHelp support MinnMax's supporters!\nhttps://www.iam8bit.com - 10% off with Promo Code: HOLLAWEEN\n\nTo jump to a particular discussion, check out the timestamps below... \n00:00:00 - Intro\n00:02:17 - Hades 2\n00:26:28 - Consume Me\n00:41:22 - Silent Hill F\n00:50:39 - Blippo +\n01:02:37 - Road To Empress\n01:09:17 - Towa and the Guardians of the Sacred Tree\n01:15:33 - Welcome Bloomberg's Jason Schreier\n01:17:23 - Final Fantasy Tactics\n01:40:27 - EA Goes Private\n02:00:30 - Thanking iam8bit - https://www.iam8bit.com/\n02:03:24 - Community questions\n02:49:58 - Get A Load Of This\nLeo’s GALOT - https://theconversation.com/paracetamol-use-during-pregnancy-not-linked-to-autism-our-study-of-2-5-million-children-shows-265919\nSarah's GALOT - https://thepopinsider.com/twilight-crocs-news/\nHanson's GALOT - https://youtu.be/Uu5jVmIZBhE?si=cLc9LXvrXfbZsOtk\nCommunity GALOT - https://gamehistory.org/william-volk-papers/\n\nDisclosure - Games discussed on MinnMax content are most often provided for free by the publisher or developer.\n\nSupport us on Patreon - https://www.patreon.com/minnmax\nSupport MinnMax directly on YouTube - https://youtube.com/minnmax/join\nFollow us on Twitch - https://www.twitch.tv/minnmaxshow\nSubscribe to our YouTube channel - https://www.youtube.com/minnmax\nSubscribe to our solo stream channel - https://www.youtube.com/@MinnMaxStreamArchives\nCatch up on the best of MinnMax - https://bit.ly/4gAc6eq\nBuy MinnMax merch here - https://minnmax.com/merch\nFollow us on Bluesky - https://bsky.app/profile/minnmax.com\nGo behind the scenes on Instagram - https://www.instagram.com/minnmaxshow\n\n#minnmax\n#minnmaxshow\n#gameinformer",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/se-CQM_rXwM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/se-CQM_rXwM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/se-CQM_rXwM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/se-CQM_rXwM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/se-CQM_rXwM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MinnMax",
-        "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 47,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "se-CQM_rXwM"
-        },
-        "videoOwnerChannelTitle": "MinnMax",
-        "videoOwnerChannelId": "UCiUhKqsBH-Is2VeC2sykEfg"
-      },
-      "contentDetails": {
-        "videoId": "se-CQM_rXwM",
-        "videoPublishedAt": "2025-10-02T16:15:05Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "5CASuCoA9jKnZRTAoOX9ub_QSXQ",
-      "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC5BOUY1N0EyNkY3QzlGOEM3",
-      "snippet": {
-        "publishedAt": "2025-09-25T17:12:19Z",
-        "channelId": "UCiUhKqsBH-Is2VeC2sykEfg",
-        "title": "Ghost of Yōtei Review, Baby Steps, Insomniac's Wolverine - The MinnMax Show",
-        "description": "We're out of Steam codes for The Rogue Prince of Persia for the giveaway, but you're still welcome to support MinnMax on Patreon and unlock other benefits! https://www.patreon.com/minnmax\n\nMinnMax's Ben Hanson, Kyle Hilliard, Jeff Marchiafava, Haley MacLean, and Leo Vader review the PlayStation 5's new epic from Sucker Punch Ghost of Yōtei (codes provided by PlayStation) launching on October 2nd. Then we descend into madness by talking about the physicis-driven Baby Steps from the creators of Ape Out and why it has infected JeffM's mind. After that, Easy Allies' Michael Huber joins the show to share highlights from Sony's State of Play including a breakdown of the upcoming Wolverine game from Insomniac and Housemarque's Saros. Then we answer questions submitted on Patreon by the community and award the iam8bit question of the week! You can win a prize and help make the show better by supporting us on Patreon and submitting a question! https://www.patreon.com/minnmax\n\nHelp support MinnMax's supporters!\nhttps://www.iam8bit.com - 10% off with Promo Code: EARTHWINDANDGAMES\n\nFollow Michael Huber's work at Easy Allies here - https://easyallies.com/\n\nTo jump to a particular discussion, check out the timestamps below... \n00:00:00 - Intro\n00:01:12 - Great game round-up\n00:04:05 - An announcement!\n00:07:51 - Ghost of Yōtei\n00:32:08 - Baby Steps\n00:53:56 - State of Play highlights with Michael Huber\n00:54:48 - Saros\n00:59:45 - Let It Die: Inferno\n01:01:52 - Deus Ex Remastered\n01:06:11 - Marvel's Wolverine\n01:18:43 - Yakuza Kiwami 3 & Dark Ties\n01:20:22 - Skate\n01:29:43 - Thanking iam8bit - https://www.iam8bit.com/\n01:31:28 - Community questions\n02:08:51 - Get A Load Of This\nLeo’s GALOT - https://www.youtube.com/watch?v=J0ben1SI4QY\nHaley's GALOT - https://www.youtube.com/watch?v=7ANoPfg22Ls\nHanson's GALOT - https://www.youtube.com/watch?v=5CZ2FBy4LQg\nHuber's GALOT - https://www.upi.com/Odd_News/2025/09/23/Guinness-World-Records-largest-game-of-catch/6981758648415/\nCommunity GALOT - https://savestate.site/podcasts/\n\nDisclosure - Games discussed on MinnMax content are most often provided for free by the publisher or developer.\n\nSupport us on Patreon - https://www.patreon.com/minnmax\nSupport MinnMax directly on YouTube - https://youtube.com/minnmax/join\nFollow us on Twitch - https://www.twitch.tv/minnmaxshow\nSubscribe to our YouTube channel - https://www.youtube.com/minnmax\nSubscribe to our solo stream channel - https://www.youtube.com/@MinnMaxStreamArchives\nCatch up on the best of MinnMax - https://bit.ly/4gAc6eq\nBuy MinnMax merch here - https://minnmax.com/merch\nFollow us on Bluesky - https://bsky.app/profile/minnmax.com\nGo behind the scenes on Instagram - https://www.instagram.com/minnmaxshow\n\n#minnmax\n#minnmaxshow\n#gameinformer",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mTFheAj44e4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mTFheAj44e4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mTFheAj44e4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/mTFheAj44e4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/mTFheAj44e4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MinnMax",
-        "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 48,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "mTFheAj44e4"
-        },
-        "videoOwnerChannelTitle": "MinnMax",
-        "videoOwnerChannelId": "UCiUhKqsBH-Is2VeC2sykEfg"
-      },
-      "contentDetails": {
-        "videoId": "mTFheAj44e4",
-        "videoPublishedAt": "2025-09-25T16:15:13Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "nk_Z-1wYzzizoSnxww29UdPJh6w",
-      "id": "UEw2RlIxTGt0OUlpUHVrMlh2czZaMnBzYmdBSG5MTTRVeC44NkRBODFEMUYwNzE0NDcy",
-      "snippet": {
-        "publishedAt": "2025-09-18T01:10:45Z",
-        "channelId": "UCiUhKqsBH-Is2VeC2sykEfg",
-        "title": "Borderlands 4, Nintendo Direct Highlights, Silksong Review - The MinnMax Show",
-        "description": "We'll DM you a Steam code for Hauntii if you support MinnMax at any tier or upgrade your tier before 9/22/25! https://www.patreon.com/minnmax\n\nMinnMax's Ben Hanson, Jeff Marchiafava, Jacob Geller, and Leo Vader along with special guest Brendon Bigley from Into The Aether and Wavelengths share early impressions of Borderlands 4 and how the action compares to the new roguelite FPS Void/Breaker. Then we run through our favorite moments from the Nintendo Direct on Friday, including the reveal of Fire Emblem: Fortune's Weave, the Super Mario Galaxy movie, and Metroid Prime 4: Beyond's release date. Then we return to Hollow Knight: Silksong to share our final thoughts on the game's scope and ambition... without spoiling key moments or fights. We also talk about the generous demo for Trails in the Sky 1st Chapter and the history of Falcom's incredibly long-running series. Then we answer questions submitted on Patreon by the community and award the iam8bit question of the week! You can win a prize and help make the show better by supporting us on Patreon and submitting a question! https://www.patreon.com/minnmax\n\nFollow Brendon Bigley's work here...\nhttps://wavelengths.online/about\nhttps://intothecast.online/\n\nHelp support MinnMax's supporters!\nhttps://www.iam8bit.com - 10% off with Promo Code: EARTHWINDANDGAMES\nhttps://www.hellofresh.com/minnmax10fm - 10 free meals + a free item for life\n\nTo jump to a particular discussion, check out the timestamps below... \n00:00:00 - Intro\n00:06:41 - Get a Steam code for Hauntii\n00:07:31 - Borderlands 4\n00:31:18 - Hello Fresh\n00:33:22 - Void/Breaker\n00:46:22 - Nintendo Direct Highlights\n01:12:07 - Best Switch 2 Grip\n01:17:13 - Hollow Knight: Silksong\n01:40:02 - Sky the Scraper\n01:45:27 - Trails in the Sky 1st Chapter\n01:53:54 - Story of Seasons: Grand Bazaar\n02:01:01 - Thanking iam8bit - https://www.iam8bit.com/\n02:02:39 - Community questions\n02:36:32 - Get A Load Of This\nLeo’s GALOT - https://www.benq.com/en-us/knowledge-center/knowledge/ps-remote-play-steam-deck.html\nJacob's GALOT - https://www.lostincult.co.uk/overthinking\nHanson's GALOT - https://www.zeldadungeon.net/wiki/Interview:Electronic_Gaming_Monthly_May_3rd_2005_(Kondo)\nBrendon's GALOT - https://www.ayaneo.com/article/890\nCommunity GALOT - https://bsky.app/profile/mariobrothblog.bsky.social/post/3lysratc6xc2g\n\nDisclosure - Games discussed on MinnMax content are most often provided for free by the publisher or developer.\n\nSupport us on Patreon - https://www.patreon.com/minnmax\nSupport MinnMax directly on YouTube - https://youtube.com/minnmax/join\nFollow us on Twitch - https://www.twitch.tv/minnmaxshow\nSubscribe to our YouTube channel - https://www.youtube.com/minnmax\nSubscribe to our solo stream channel - https://www.youtube.com/@MinnMaxStreamArchives\nCatch up on the best of MinnMax - https://bit.ly/4gAc6eq\nBuy MinnMax merch here - https://minnmax.com/merch\nFollow us on Bluesky - https://bsky.app/profile/minnmax.com\nGo behind the scenes on Instagram - https://www.instagram.com/minnmaxshow\n\n#minnmax\n#minnmaxshow\n#gameinformer",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/B-XEE8_2MAs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/B-XEE8_2MAs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/B-XEE8_2MAs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/B-XEE8_2MAs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/B-XEE8_2MAs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MinnMax",
-        "playlistId": "PL6FR1Lkt9IiPuk2Xvs6Z2psbgAHnLM4Ux",
-        "position": 49,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "B-XEE8_2MAs"
-        },
-        "videoOwnerChannelTitle": "MinnMax",
-        "videoOwnerChannelId": "UCiUhKqsBH-Is2VeC2sykEfg"
-      },
-      "contentDetails": {
-        "videoId": "B-XEE8_2MAs",
-        "videoPublishedAt": "2025-09-18T16:15:01Z"
-      }
     }
   ],
   "pageInfo": {
-    "totalResults": 362,
+    "totalResults": 365,
     "resultsPerPage": 50
   },
-  "timestamp": 1788400526820
+  "timestamp": 1790175824517
 }
